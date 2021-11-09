@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xin Wang"
 title_separator          : "-"
 name                     : &name "Xin Wang"
-description              : &description "Postdoc in Political Science"
+description              : &description "Data Science Researcher"
 url                      : https://xin-wang-kr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xin-wang-kr/xin-wang-kr.github.io"
@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=HWiicI8AAAAJ&hl=en" # "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
   email            : "xinwang35314@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,7 +100,7 @@ author:
   facebook         :
   foursquare       :
   github           : "xin-wang-kr"
-  gitlab           : "jayrobwilliams"
+  gitlab           : #"jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
