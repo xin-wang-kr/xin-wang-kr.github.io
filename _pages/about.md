@@ -26,8 +26,8 @@ I had [researches](research) on Fake News and Misinformation detection, Anti-Asi
 analysis, Anti-Asian hate indicator establishment, smart ship, and the relationship between Bitcoin and stock market. 
 I have [taught](teaching) courses in Mobile App Development, Python Programming in AI and Academic Writing. 
 
-I am a co-author for a book called *Applied Big Data Analytics and Its Role in COVID-19*, which introduces
-the most recently industrial applications and research topics on COVID-19 with big data analytics. 
+I am a co-author for a book called [*Applied Big Data Analytics and Its Role in COVID-19*](https://www.igi-global.com/book/applied-big-data-analytics-its/273493), 
+which introduces the most recently industrial applications and research topics on COVID-19 with big data analytics. 
 Featuring coverage on a broad range of big data technologies such as data collection, data cleaning, 
 data visualization, deep learning, predictive analysis, natural language processing, 
 geographic information system, social media analysis, image recognition, voice recognition, 
