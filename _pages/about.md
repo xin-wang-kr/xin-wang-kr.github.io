@@ -8,25 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+Welcome! I am a COVID-19 research team leader in the
+[BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) 
+at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Before that, I was a machine
+learning engineer at 
+[Tianjin Value Fair Technology Inc](http://www.valuefair.cn/) in China. I earned my master 
+in Data Science in 2018 and a bachelor in Industrial Engineering at Aeronautical Engineering direction in 2014. 
+I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), 
+having served Goolge AI Impact Challenge and data.org Challenge in 2019 and 2020.
 
 My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. My [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While I primarily
-focus on civil conflict, I also examine contentious political phenomena
-including terrorism and economic statecraft, and develop new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both international relations and quantitative methodology, and am a certified
-instructor with [The Carpentries](https://carpentries.org/).
+*International Journal of Society Systems Science*, *International Journal of Data Science*,
+*International Journal of Operations Research and Information Systems*,
+*International Journal of Decision Science*,
+*International Journal of Data Analysis and Information Systems* and *IGI Global*. 
+I had [researches](research) on Fake News and Misinformation detection, Anti-Asian hater profile and geographical 
+analysis, Anti-Asian hate indicator establishment, smart ship, and the relationship between Bitcoin and stock market. 
+I have [taught](teaching) courses in Mobile App Development, Python Programming in AI and Academic Writing. 
+
+I am a co-author for a book called *Applied Big Data Analytics and Its Role in COVID-19*, which introduces
+the most recently industrial applications and research topics on COVID-19 with big data analytics. 
+Featuring coverage on a broad range of big data technologies such as data collection, data cleaning, 
+data visualization, deep learning, predictive analysis, natural language processing, 
+geographic information system, social media analysis, image recognition, voice recognition, 
+and motion recognition, this publication provides concrete examples and cases of usages of data-driven 
+projects in COVID-19 as well as the challenges and opportunities of generation value from big data.
