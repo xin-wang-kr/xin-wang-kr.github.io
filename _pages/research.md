@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 header:
-  og_image: "research/ecdf.png"
+  og_image: "projects/ecdf.png"
 ---
 
 My research falls into two main areas: understanding the influence of geography
