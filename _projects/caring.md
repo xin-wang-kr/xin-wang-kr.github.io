@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: CARING
 description: Chart-assessment for Real-time Investigation of Nursing and Guidance
 img: /assets/img/caring.jpg
