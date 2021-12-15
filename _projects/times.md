@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: times
 description: Spatiotemporal analysis via tensor factorization
 img: /assets/img/times-map.png
