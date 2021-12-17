@@ -1,6 +1,6 @@
 ---
 title: "Core Cosmology Library: Precision Cosmological Predictions for LSST"
-collection: Projects
+collection: projects
 permalink: /projects/caring
 excerpt: "The Core Cosmology Library (CCL) is a C library (with a python interface) to compute cosmological observables including distances, angular power spectra, correlation functions, halo bias and the halo mass function. Routines in CCL have been vetted with an extensive suite of validation tests to ensure numerical accuracy."
 date: 2019-5-1
