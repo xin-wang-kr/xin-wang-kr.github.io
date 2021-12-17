@@ -6,6 +6,10 @@ author_profile: true
 classes: wide
 ---
 
-{% for post in site.talks reversed %}
+Clicking on any of the links to see more details on the projects.
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
