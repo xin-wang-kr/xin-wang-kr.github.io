@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+class: wide
 ---
 
 {% if author.googlescholar %}
@@ -15,4 +16,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Equal authorship
