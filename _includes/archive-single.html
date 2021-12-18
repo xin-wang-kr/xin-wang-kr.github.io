@@ -78,13 +78,13 @@
     
     <!-- Projects -->
     {% if post.collection == 'projects' %}
-    <div class="talk_venue">
+    <p class="talk_venue">
       {% if post.venue == 'In Prep' %}
         {{post.date | default: "1900-01-01" | date: "%Y" }}, In Prep
       {% else %}
         Conducted in {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% endif %}
-    </div>
+    </p>
     
     {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
