@@ -2,7 +2,7 @@
 title: "Constructing an Anti-Asian Hate Indicator for Pandemic-related Comments from Mainstream Media YouTube Channels"
 collection: publications
 permalink: /publication/2020-hate-twitter
-excerpt: "Pandemic-related-hate; GIS; Sentiment analysis; Anti-Asian Hate tweets; Deep neural network algorithm/Abstract:Anti-Asian hate tweets caused by COVID-19 pandemic is an
+excerpt: "Pandemic-related-hate; GIS; Sentiment analysis; Anti-Asian Hate tweets; Deep neural network algorithm"<br />"Abstract: Anti-Asian hate tweets caused by COVID-19 pandemic is an
 ongoing social problem in the USA and around the world. Although existing
 studies have been done by using a text classifier, little is known on how deep
 learning works with public sentiments of political opinions and geographical
@@ -21,3 +21,4 @@ link: 'https://dx.doi.org/10.1504/IJSSS.2021.116373'
 github: 'https://github.com/pzhaoir/COVID-HATE-TRACK'
 citation: 'Zhao, P., Chen, X., & Wang, X. 2021. &quot;Constructing an Anti-Asian Hate Indicator for Pandemic-related Comments from Mainstream Media YouTube Channels.&quot; <i>International Journal of Society Systems Science</i> 13(2), 125-139. doi:10.1504/IJSSS.2021.116373'
 ---
+
