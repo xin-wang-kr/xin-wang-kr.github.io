@@ -77,7 +77,7 @@
     {% endif %}
     
     <!-- Projects -->
-    {% elsif post.collection == 'projects' %}
+    {% if post.collection == 'projects' %}
     <div class="talk_venue">
       {% if post.venue == 'In Prep' %}
         {{post.date | default: "1900-01-01" | date: "%Y" }}, In Prep
