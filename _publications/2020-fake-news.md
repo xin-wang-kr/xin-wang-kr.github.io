@@ -11,7 +11,7 @@ github: 'https://github.com/pzhaoir/fake-news-monitoring-anti-rumor-systm/tree/m
 citation: 'Wang, X., Zhao, P., & Chen, X. 2020. &quot;Fake news and misinformation detection on headlines of COVID-19 using deep learning algorithms.&quot; <i>International Journal of Data Science</i> doi:10.1504/IJDS.2020.115873'
 ---
 
-### Abstract
+## Abstract
 This paper proposed a deep learning algorithm system to fulfil fake
 news and misinformation detection on COVID-19 related headlines. Long
 short-term memory (LSTM), convolutional neural network (CNN) and Deep
