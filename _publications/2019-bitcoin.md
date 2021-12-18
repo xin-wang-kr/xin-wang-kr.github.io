@@ -1,8 +1,8 @@
 ---
 title: "The Relationship between Bitcoin and Stock Market"
 collection: publications
-permalink: /publication/2019-The
-excerpt: "The Core Cosmology Library (CCL) is a C library (with a python interface) to compute cosmological observables including distances, angular power spectra, correlation functions, halo bias and the halo mass function. Routines in CCL have been vetted with an extensive suite of validation tests to ensure numerical accuracy."
+permalink: /publication/2019-bitcoin
+excerpt: "Blockchain technique; Cryptocurrecy; VAR model; Impulse response analysis; Price return; Sliding window technique; Yahoo API"
 date: 2019-10-01
 venue: 'International Journal of Operations Research and Information Systems'
 paperurl: '/files/pdf/research/The-Relationship-Between-Bitcoin-and-Stock-Market.pdf'
