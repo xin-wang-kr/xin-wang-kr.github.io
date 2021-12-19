@@ -1,7 +1,7 @@
 ---
 title: "Conflict preemption"
 layout: single-portfolio
-excerpt: "In this research I ask why some rebel groups fight for secession and independence<br /><img src='/images/research/epr.png' alt=''>"
+excerpt: "In this research I ask why some rebel groups fight for secession and independence"
 collection: research
 order_number: 10
 header: 
