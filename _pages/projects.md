@@ -9,6 +9,8 @@ classes: wide
 
 # [Face Mask Detection](_projects/kirby_et_al_2019a.md)
 
-| ![space-1.jpg](https://blog-assets.thedyrt.com/uploads/2019/01/shutterstock_1033306540-1.jpg) |
-|:--:|
-| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
+<p float="left">
+  <img src="/images/research/face-mask/correct-mask.jpg" height="250" width="300" />
+  <img src="/images/research/face-mask/mask-type-1.png" height="250" width="300" /> 
+  <img src="/images/research/face-mask/mask-type-3.png" height="250" width="300" />
+</p>
