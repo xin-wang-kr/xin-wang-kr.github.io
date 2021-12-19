@@ -7,7 +7,7 @@ classes: wide
 ---
 {% include base_path %}
 
-# Face Mask Detection
+# [Face Mask Detection](_projects/kirby_et_al_2019a.md)
 
 | ![space-1.jpg](https://blog-assets.thedyrt.com/uploads/2019/01/shutterstock_1033306540-1.jpg) |
 |:--:|
