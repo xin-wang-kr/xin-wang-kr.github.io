@@ -1,17 +1,17 @@
 ---
 layout: archive
-permalink: /research/
 title: "Projects"
+permalink: /research/
 author_profile: true
 ---
 
+My research 
+<nbsp>
+
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.research %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
