@@ -5,5 +5,5 @@ permalink: /projects/face-mask
 ---
 
 {% include base_path %}
-## Abstract
+
 kdfjienv
