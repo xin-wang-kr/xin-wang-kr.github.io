@@ -7,7 +7,7 @@ classes: wide
 ---
 {% include base_path %}
 
-# [Face Mask Detection](/projects/kirby_et_al_2019a.md)
+# [Face Mask Detection](projects/face-mask.md)
 
 <p float="left">
   <img src="/images/research/face-mask/correct-mask-1.jpg" height="250" width="310" />
