@@ -1,7 +1,7 @@
 ---
 title: "Fake news and misinformation detection on headlines of COVID-19 using deep learning algorithms"
 collection: publications
-permalink: /publication/2021-fake-news
+permalink: /publications/2021-fake-news
 excerpt: "COVID-19; Fake News Detection; Mainstream media credibility; Long-term memory; Converlutional neural network; Deep belief networks; Cloud computing<br />**Abstract:**This paper proposed a deep learning algorithm system to fulfil fake
 news and misinformation detection on COVID-19 related headlines. Long
 short-term memory (LSTM), convolutional neural network (CNN) and Deep
