@@ -3,8 +3,6 @@ layout: archive
 title: "Projects"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
 ---
 
 My research 
