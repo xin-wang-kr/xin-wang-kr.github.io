@@ -1,6 +1,7 @@
 ---
 title: "Conflict preemption"
 collection: research
+description: "confict-90"
 excerpt: "<img src='/images/research/epr.png' alt=''>"
 ---
 
