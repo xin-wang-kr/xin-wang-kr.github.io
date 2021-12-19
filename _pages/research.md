@@ -3,8 +3,6 @@ layout: archive
 permalink: /research/
 title: "Projects"
 author_profile: true
-header:
-  og_image: "posts/spatial-sql/gadm_wkt_filter_buffer-1.png"
 ---
 
 {% include base_path %}
