@@ -14,6 +14,4 @@ classes: wide
   <img src="/images/research/face-mask/mask-type-3.png" height="150" width="200" />
 </p>
 
-<div class="darkout-section">
-{% include do-carousel.html tag="modules" id="two" %}
-</div>
+<div class="darkout-section">{% include do-carousel.html tag="modules" id="two" %}</div>
