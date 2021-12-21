@@ -5,12 +5,12 @@
     - src: /images/research/face-mask/correct-mask-2.jpg
       alt: Correct mask detection
     - data-src: /images/research/face-mask/mask-type-1.png
-      alt: Surgical mask
+      alt: Mask type detection - Surgical mask
     - data-src: /images/research/face-mask/mask-type-3.png
       data-src-2x: /images/research/face-mask/mask-type-3.png
-      alt: Homemade mask
+      alt: Mask type detection - Homemade mask
     - src: /images/research/face-mask/mask-type-2.png
-      alt: N95
+      alt: Mask type detection - N95
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
     height: 350
