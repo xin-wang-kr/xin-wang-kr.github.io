@@ -4,9 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 classes: wide
-gallery_a:
-  - /images/research/face-mask/mask-type-1.png
-  - /images/research/face-mask/mask-type-3.png
 ---
 {% include base_path %}
 
