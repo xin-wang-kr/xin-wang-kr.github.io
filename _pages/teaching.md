@@ -3,38 +3,31 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
-
-
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
-
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
+## Instructor
+*BIG DATA & AI Lab, IntelligentRabbit LLC.* 
+- Mobile App Development: Python Kivy (Summer 2020)
     - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
+- Python Programming in AI  (Spring 2019)
     - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+## Instructor
+*AI Hub at GEC Academy*
+- Academic writing (Graduate level, Summer 2021)
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+## Teaching Assistant 
+*GEC Academy* 
+- AI for Health Monitoring (by Prof Maarten De Vos at Katholieke Universiteit Leuven, Spring 2021)
+    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
+- Applied Machine Learning (by Prof Stephen Collgeshall at University of Southern California, Winter 2020)
+    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
+- Algorithmic Foundations of Learning (by Prof Patrick Rebeschini at Oxford University, Summer 2020)
+    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
+- Introduction of Machine Learning (by Prof Jovan Ilic at Carnegie Mellon University, Spring 2020)
+    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
+
+## Teaching Assistant
+*Data Science Institute, Saint Peter’s University*
+- Data Mining (Graduate level, Spring 2018) 
+    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
+- Statistical Programming: R and SAS  (Graduate leve, Spring 2017)
+    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
