@@ -15,6 +15,12 @@ classes: wide
 </p>
 
 
-## Gallery A
+## Galler 
+---
+gallery_a:
+  - /images/research/face-mask/mask-type-1.png
+  - /images/research/face-mask/mask-type-3.png
+---
 
-{% include carousel.html dir="images/research/face-mask" %}
+{% include carousel.html height="50"
+   unit="%" duration="7" images=gallery_a %}
