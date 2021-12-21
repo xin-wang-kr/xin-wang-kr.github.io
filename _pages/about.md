@@ -17,6 +17,8 @@ in Data Science in 2018 and a bachelor in Industrial Engineering at Aeronautical
 I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), 
 having served Goolge AI Impact Challenge and data.org Challenge in 2019 and 2020.
 
+{% include carousel.html dir="images/research/face-mask" %}
+
 My work has been [published](publications) or is forthcoming in
 *International Journal of Society Systems Science*, *International Journal of Data Science*,
 *International Journal of Operations Research and Information Systems*,
