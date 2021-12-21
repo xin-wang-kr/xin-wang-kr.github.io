@@ -1,0 +1,6 @@
+carousels:
+  - images: 
+    - image: /images/research/face-mask/correct-mask-1.jpg
+    - image: /images/research/face-mask/mask-type-1.png
+    - image: /images/research/face-mask/mask-type-2.png
+    - image: /images/research/face-mask/mask-type-3.png
