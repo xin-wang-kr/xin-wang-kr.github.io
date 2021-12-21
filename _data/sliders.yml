@@ -2,12 +2,12 @@
   bullets: false
   captions: true
   images:
-    - src: /images/research/face-mask/correct-mask.jpg
+    - src: /images/research/face-mask/correct-mask-1.jpg
       alt: Correct mask detection
     - data-src: /images/research/face-mask/mask-type-1.png
       alt: Surgical mask
     - data-src: /images/research/face-mask/mask-type-3.png
-      data-src-2x: 
+      data-src-2x: /images/research/face-mask/mask-type-3.png
       alt: Use data-src-2x for HiDPI devices
     - src: /images/research/face-mask/mask-type-2.png
       alt: Links work too
