@@ -4,6 +4,8 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 classes: wide
+image_sliders:
+  - slider1
 ---
 {% include base_path %}
 
@@ -18,3 +20,5 @@ classes: wide
 ## Galler 
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+{% include slider.html selector="slider1" %}
