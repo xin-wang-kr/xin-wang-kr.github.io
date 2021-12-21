@@ -10,7 +10,7 @@
       data-src-2x: /images/research/face-mask/mask-type-3.png
       alt: Use data-src-2x for HiDPI devices
     - src: /images/research/face-mask/mask-type-2.png
-      alt: Links work too
+      alt: Homemade mask
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
     height: "auto"
