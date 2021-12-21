@@ -4,6 +4,9 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 classes: wide
+gallery_a:
+  - /images/research/face-mask/mask-type-1.png
+  - /images/research/face-mask/mask-type-3.png
 ---
 {% include base_path %}
 
@@ -16,11 +19,6 @@ classes: wide
 
 
 ## Galler 
----
-gallery_a:
-  - /images/research/face-mask/mask-type-1.png
-  - /images/research/face-mask/mask-type-3.png
----
 
 {% include carousel.html height="50"
    unit="%" duration="7" images=gallery_a %}
