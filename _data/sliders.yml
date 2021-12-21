@@ -2,7 +2,7 @@
   bullets: false
   captions: true
   images:
-    - src: /images/research/face-mask/correct-mask-1.jpg
+    - src: /images/research/face-mask/correct-mask-2.jpg
       alt: Correct mask detection
     - data-src: /images/research/face-mask/mask-type-1.png
       alt: Surgical mask
