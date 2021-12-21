@@ -16,14 +16,14 @@ title: "Teaching"
 
 ## Teaching Assistant 
 *GEC Academy* 
-- AI for Health Monitoring (by Prof Maarten De Vos at Katholieke Universiteit Leuven, Spring 2021)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
+- Machine Learning in Biomedical Monitoring (by Prof Maarten De Vos at Katholieke Universiteit Leuven, Spring 2021)
+    - [Syllabus](/files/pdf/teaching/ML-bio.pdf)
 - Applied Machine Learning (by Prof Stephen Collgeshall at University of Southern California, Winter 2020)
     - [Syllabus](/files/pdf/teaching/AP-Machine Learning.pdf)
 - Algorithmic Foundations of Learning (by Prof Patrick Rebeschini at Oxford University, Summer 2020)
     - [Syllabus](/files/pdf/teaching/AlgorithmL.pdf)
 - Introduction of Machine Learning (by Prof Jovan Ilic at Carnegie Mellon University, Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
+    - [Syllabus](/files/pdf/teaching/MLDS.pdf)
 
 ## Teaching Assistant
 *Data Science Institute, Saint Peter’s University*
