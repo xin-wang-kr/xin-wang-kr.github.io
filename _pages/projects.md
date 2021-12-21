@@ -7,7 +7,7 @@ classes: wide
 image_sliders:
   - slider1
 ---
-{% include base_path %}
+
 
 # [Face Mask Detection](projects/face-mask.md)
 <p float="left">
