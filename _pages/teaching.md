@@ -7,7 +7,7 @@ title: "Teaching"
 *BIG DATA & AI Lab, IntelligentRabbit LLC.* 
 - Mobile App Development: Python Kivy (Summer 2020)
     - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Python Programming in AI  (Spring 2019)
+- Python Programming in AI  (Summer 2020)
     - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
 
 ## Instructor
