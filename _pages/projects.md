@@ -20,5 +20,4 @@ gallery_a:
 
 ## Galler 
 
-{% include carousel.html height="50"
-   unit="%" duration="7" images=gallery_a %}
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
