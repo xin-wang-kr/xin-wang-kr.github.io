@@ -9,6 +9,7 @@ tags:
 ---
 This instruction will introduce how to sep up twitter scraper on AWS EC2, install python packages for EC2 instance, and deliver output file from EC2 instance to S3 storage.
 <!--more-->
+
 **Step 0: Install PuTTY in windows**
 
 PuTTY is a free implementation of SSH for Windows. You can download the PuTTY installer from the following link: [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
