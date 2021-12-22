@@ -1,7 +1,7 @@
 ---
 title: AWS EC2 Instruction
 date: 2020-10-22
-permalink: /posts/2020/10-AWS-setting
+permalink: /posts/2020/10-AWS-EC2-setting
 excerpt_separator: <!--more-->
 toc: true
 tags:
@@ -72,24 +72,24 @@ Go to EC2 dashboard and check running instances. Copy &quot;Public IPv4 DNS&quot
 
 Open PuTTY. At blank of host name, type &quot;ec2-user@&quot; and paste the address you just get.
 
-![](/images/posts/AWS-setting/Image12.png)
+![](/images/posts/AWS-setting/Image13.png)
 
 In the **Category** pane, choose **Connection** , **SSH** and **Auth**. Complete the following:
 
 - Choose **Browse** , select the .ppk file that you generated for your key pair, and then choose **Open**.
 - Choose **Open** to start the PuTTY session.
 
-![](/images/posts/AWS-setting/Image13.png)
+![](/images/posts/AWS-setting/Image14.png)
 
 So now you can connect to EC2 instance from local.
 
-![](/images/posts/AWS-setting/Image14.png)
+![](/images/posts/AWS-setting/Image15.png)
 
 **Step 4 AWS configuration**
 
 Run this command to quickly set and view your credential, region and output format. The following example show sample values.
 
-![](/images/posts/AWS-setting/Image15.png)
+![](/images/posts/AWS-setting/Image16.png)
 
 Replace AWS access key id and AWS secret access key to your own ones.
 
@@ -97,33 +97,45 @@ Replace AWS access key id and AWS secret access key to your own ones.
 
 In Linux command line, type as shown in the figure.
 
-![](/images/posts/AWS-setting/Image16.png)
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ sudo yum install python36
+```
 
 Type &quot;y&quot; and click enter.
 
-![](/images/posts/AWS-setting/Image17.png)
+![](/images/posts/AWS-setting/Image18.png)
 
 Install pip for python 3. Download the installation script.
 
-![](/images/posts/AWS-setting/Image18.png)
-
-$ curl -O https://bootstrap.pypa.io/get-pip.py
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ curl -O https://bootstrap.pypa.io/get-pip.py
+```
 
 Run the script with Python.
 
-![](/images/posts/AWS-setting/Image19.png)
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ python3 get-pip.py --user
+```
 
 Use pip to install the EV CLI
 
-![](/images/posts/AWS-setting/Image20.png)
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ pip3 install awsebcli --upgrade --user
+```
 
 **Step 6 Install Python packages for the project**
 
-![](/images/posts/AWS-setting/Image21.png)
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ pip3 install tweepy
+[ec2-user@ip-172-31-15-113 ~] $ pip3 install pandas
+```
+You can check if the packages are installed successfully through the command:
 
-![](/images/posts/AWS-setting/Image22.png)
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ pip show pandas
+```
 
-**Step 7 Load data and python program into EC2 instance**
+**Step 7 Load files into EC2 instance**
 
 Use the following command to copy an object from Amazon S3 to your instance.
 
@@ -131,38 +143,47 @@ Use the following command to copy an object from Amazon S3 to your instance.
 
 Eg:
 
-![](/images/posts/AWS-setting/Image23.png)
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ aws s3 cp s3://bucket1/hate_5000-1.csv hate_5000-1.csv
+```
 
 Use the same method to load python program &quot;Tweets\_scraper.py&quot; into EC2 instance.
 
 Make sure both data and python program are in instance already using the command below.
 
-![](/images/posts/AWS-setting/Image24.png)
+![](/images/posts/AWS-setting/Image25.png)
 
 **Step 8 change data file name and output file name in the python code and add your Twitter API token into the code.**
 
-![](RackMultipart20211222-4-n35wz9_html_e2ff9d998f06493f.png)
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ nano Tweets_scraper.py
+```
 
 Change the load file name to the one you copy to EC2 instance. Add your consumer key, consumer secret, access token and access token secret into the code.
 
 This link is for how to get API Keys and Tokens for Twitter: [https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitter/](https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitter/)
 
-![](RackMultipart20211222-4-n35wz9_html_ef6066f55641214a.png)
+![](/images/posts/AWS-setting/Image27.png)
 
 Change the output file name accordingly. If &#39; **hate\_5000-1.csv**&quot; is your input file, your output file name should be &quot; **hate\_5000-1-result.csv**&quot;. Use PgDn to move to the bottom of the code.
 
-![](RackMultipart20211222-4-n35wz9_html_93b2cdfee922d322.png)
+![](/images/posts/AWS-setting/Image28.png)
 
 After these, press Ctrl+X, y and Enter in order.
 
-![](RackMultipart20211222-4-n35wz9_html_7904e57e9f2359d3.png)
+![](/images/posts/AWS-setting/Image29.png)
 
 **Step 9 Run the python program**
 
-![](RackMultipart20211222-4-n35wz9_html_e4e4762750f9823c.png)
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ python3 Tweets_scraper.py
+```
 
 **Step 10 Save your output file into S3 storage.**
 
-Use the command to save file into S3 storage. Please put into running\_results folder.
+Use the command to save file into S3 storage.
 
-**[ec2-user@~] $ aws s3 cp hate\_5000-1-result.csv s3://ircovid19project/ twitter-dataCollection/running\_results/hate\_5000-1-result.csv**
+```sh
+[ec2-user@ip-172-31-15-113 ~] $ aws s3 cp hate_5000-1-result.csv s3://bucket1/ twitter-dataCollection/running_results/hate_5000-1-result.csv
+```
+
