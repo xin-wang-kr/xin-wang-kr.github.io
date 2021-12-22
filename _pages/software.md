@@ -11,7 +11,7 @@ title: "Application"
 The app is deployed on Heroku: [https://fake-news-detector-cnn.herokuapp.com/](https://fake-news-detector-cnn.herokuapp.com/). 
 
 ## COVID-19 Global Case Analysis Web App
-<video muted autoplay controls width="768" height="512">
+<video muted autoplay controls >
     <source src="/files/videos/case-analysis.mp4" type="video/mp4">
 </video>
 
