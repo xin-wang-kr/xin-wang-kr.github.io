@@ -8,8 +8,6 @@ tags:
   - regex
 ---
 
-**AWS EC2 Instruction**
-
 **Step 0: Install PuTTY in windows**
 
 PuTTY is a free implementation of SSH for Windows. You can download the PuTTY installer from the following link: [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
