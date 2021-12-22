@@ -5,7 +5,7 @@ permalink: /posts/2020/10-AWS-setting
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - regex
+  - aws
 ---
 
 **Step 0: Install PuTTY in windows**
