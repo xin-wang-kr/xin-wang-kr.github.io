@@ -9,6 +9,16 @@ image_sliders:
 ---
 
 
-# [Face Mask Detection](projects/face-mask.md)
+# [Face mask detection](projects/face-mask.md)
 
 {% include slider.html selector="slider1" %}
+
+# [Social distancing monitoring](projects/social-distancing.md)
+
+# [Mobility analysis during COVID-19](projects/mobility.md)
+
+# [COVID-19 coice recognition](projects/voic-rec.md)
+
+# [Image diagnose on skin cancer](projects/skin-cancer.md)
+
+# [Music generation](projects/music.md)
