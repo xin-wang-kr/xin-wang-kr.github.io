@@ -7,4 +7,4 @@ permalink: /projects/face-mask
 
 Detection correct mask and mask types via MobileNet and OpenCV
 
-{% include carousel.html dir="images/research/face-mask" %}
+
