@@ -21,4 +21,4 @@ image_sliders:
 
 # [Image diagnose on skin cancer](projects/skin-cancer.md)
 
-# [Music generation](projects/music.md)
+# [AI music generation](projects/music.md)
