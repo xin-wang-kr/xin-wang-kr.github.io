@@ -1,6 +1,6 @@
 ---
 title: AWS EC2 Instruction
-date: 2021-07-01
+date: 2020-10-22
 permalink: /posts/2020/10-AWS-setting
 excerpt_separator: <!--more-->
 toc: true
@@ -12,7 +12,7 @@ tags:
 
 PuTTY is a free implementation of SSH for Windows. You can download the PuTTY installer from the following link: [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-![](RackMultipart20211222-4-n35wz9_html_43514da88adaeb51.png)
+![](/images/posts/AWS-setting/Image1.png)
 
 Choose the version you need for your windows system accordingly.
 
@@ -22,39 +22,39 @@ After you login your account, open the services and go to EC2 dashboard.
 
 <!--more-->
 
-![](RackMultipart20211222-4-n35wz9_html_1cca940e01c3d453.png)
+![](/images/posts/AWS-setting/Image2.png)
 
 Click &quot;Launch instance&quot; under the drawer of &quot;Launch instance&quot;.
 
-![](RackMultipart20211222-4-n35wz9_html_dab8e1884d789eb5.png)
+![](/images/posts/AWS-setting/Image3.png)
 
 Select &quot;**Amazon Linux AMI 2018.03.0 (HVM), SSD Volume Type** - ami-027cab9a7bf0155df&quot; as Amazon Machine Image (AMI).
 
-![](RackMultipart20211222-4-n35wz9_html_529b52294faadabd.png)
+![](/images/posts/AWS-setting/Image4.png)
 
 Select &quot;r5d.large&quot; as your instance type and then click &quot;Next: Configure Instance Details&quot;.
 
-![](RackMultipart20211222-4-n35wz9_html_4e69354b6bd147eb.png)
+![](/images/posts/AWS-setting/Image5.png)
 
 Don&#39;t change any setting and click &quot;Next: Add storage&quot;.
 
-![](RackMultipart20211222-4-n35wz9_html_ce11983961896fad.png)
+![](/images/posts/AWS-setting/Image6.png)
 
 Click &quot;Next: Add Tags
 
-![](RackMultipart20211222-4-n35wz9_html_4fe52bc23cb2cefe.png)
+![](/images/posts/AWS-setting/Image7.png)
 
 dg
 
-![](RackMultipart20211222-4-n35wz9_html_49a915ea4c7ec7d5.png)
+![](/images/posts/AWS-setting/Image8.png)
 
 Move to next page and click &quot;Launch&quot;. Choose &quot;Create a new key pair&quot; and give a key pair name in the pop-up window.
 
-![](RackMultipart20211222-4-n35wz9_html_2368bc07a98fd5d4.png)
+![](/images/posts/AWS-setting/Image9.png)
 
 And then click &quot;Download Key Pair&quot;. Please keep your key pair in a safe place. It will be used to connect to EC2 from the local machine. After you download the file, click &quot; Launch Instances&quot;.
 
-![](RackMultipart20211222-4-n35wz9_html_1868adbc2a132907.png)
+![](/images/posts/AWS-setting/Image10.png)
 
 Now you have launched EC2 instance.
 
@@ -62,34 +62,34 @@ Now you have launched EC2 instance.
 
 Open PuTTY Key Generator and click &quot;Load&quot; to locate the key pair file you download. And then click &quot;Save private key&quot;.
 
-![](RackMultipart20211222-4-n35wz9_html_17a16c48acb1e4f.png)
+![](/images/posts/AWS-setting/Image11.png)
 
 **Step 3: Connect to EC2 from local**
 
 Go to EC2 dashboard and check running instances. Copy &quot;Public IPv4 DNS&quot;.
 
-![](RackMultipart20211222-4-n35wz9_html_b45e4661b36b19df.png)
+![](/images/posts/AWS-setting/Image12.png)
 
 Open PuTTY. At blank of host name, type &quot;ec2-user@&quot; and paste the address you just get.
 
-![](RackMultipart20211222-4-n35wz9_html_e65b37e0694a0797.png)
+![](/images/posts/AWS-setting/Image12.png)
 
 In the **Category** pane, choose **Connection** , **SSH** and **Auth**. Complete the following:
 
 - Choose **Browse** , select the .ppk file that you generated for your key pair, and then choose **Open**.
 - Choose **Open** to start the PuTTY session.
 
-![](RackMultipart20211222-4-n35wz9_html_ae1cf06c9a63abcb.png)
+![](/images/posts/AWS-setting/Image13.png)
 
 So now you can connect to EC2 instance from local.
 
-![](RackMultipart20211222-4-n35wz9_html_f9f37f2a6f94c216.png)
+![](/images/posts/AWS-setting/Image14.png)
 
 **Step 4 AWS configuration**
 
 Run this command to quickly set and view your credential, region and output format. The following example show sample values.
 
-![](RackMultipart20211222-4-n35wz9_html_b647bfa17b5e3558.png)
+![](/images/posts/AWS-setting/Image15.png)
 
 Replace AWS access key id and AWS secret access key to your own ones.
 
@@ -97,31 +97,31 @@ Replace AWS access key id and AWS secret access key to your own ones.
 
 In Linux command line, type as shown in the figure.
 
-![](RackMultipart20211222-4-n35wz9_html_3534bfbbf341823b.png)
+![](/images/posts/AWS-setting/Image16.png)
 
 Type &quot;y&quot; and click enter.
 
-![](RackMultipart20211222-4-n35wz9_html_e9978132e6405dcc.png)
+![](/images/posts/AWS-setting/Image17.png)
 
 Install pip for python 3. Download the installation script.
 
-![](RackMultipart20211222-4-n35wz9_html_6e75432bd8b70a8b.png)
+![](/images/posts/AWS-setting/Image18.png)
 
 $ curl -O https://bootstrap.pypa.io/get-pip.py
 
 Run the script with Python.
 
-![](RackMultipart20211222-4-n35wz9_html_66b751f986f11f6d.png)
+![](/images/posts/AWS-setting/Image19.png)
 
 Use pip to install the EV CLI
 
-![](RackMultipart20211222-4-n35wz9_html_d55adcbcf58bf64e.png)
+![](/images/posts/AWS-setting/Image20.png)
 
 **Step 6 Install Python packages for the project**
 
-![](RackMultipart20211222-4-n35wz9_html_232a8b38c317fa5a.png)
+![](/images/posts/AWS-setting/Image21.png)
 
-![](RackMultipart20211222-4-n35wz9_html_894d9464b8086597.png)
+![](/images/posts/AWS-setting/Image22.png)
 
 **Step 7 Load data and python program into EC2 instance**
 
@@ -131,13 +131,13 @@ Use the following command to copy an object from Amazon S3 to your instance.
 
 Eg:
 
-![](RackMultipart20211222-4-n35wz9_html_8dc0abfca8d6d947.png)
+![](/images/posts/AWS-setting/Image23.png)
 
 Use the same method to load python program &quot;Tweets\_scraper.py&quot; into EC2 instance.
 
 Make sure both data and python program are in instance already using the command below.
 
-![](RackMultipart20211222-4-n35wz9_html_d9efbe219852a76d.png)
+![](/images/posts/AWS-setting/Image24.png)
 
 **Step 8 change data file name and output file name in the python code and add your Twitter API token into the code.**
 
