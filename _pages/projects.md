@@ -17,7 +17,7 @@ image_sliders:
 
 # [Mobility analysis during COVID-19](projects/mobility.md)
 
-# [COVID-19 coice recognition](projects/voic-rec.md)
+# [COVID-19 voice recognition](projects/voice-rec.md)
 
 # [Image diagnose on skin cancer](projects/skin-cancer.md)
 
