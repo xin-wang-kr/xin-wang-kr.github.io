@@ -1,7 +1,7 @@
 ---
 title: AWS EC2 Instruction
 date: 2021-07-01
-permalink: /posts/2021/07-rstudio-regex
+permalink: /posts/2020/10-AWS-setting
 excerpt_separator: <!--more-->
 toc: true
 tags:
