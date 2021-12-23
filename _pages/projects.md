@@ -25,11 +25,13 @@ Detect correct mask and mask type using MobileNet and OpenCV
 {% include slider.html selector="slider3" %}
 
 # [COVID-19 voice recognition](projects/voice-rec.md)
-<figure float="left">
-  <img src="/images/research/voice-rec/Fig5-pos-cough-spec.png" width="100" height="50"/>
-  <img src="/images/research/voice-rec/Fig6-neg-cough-spec.png" width="100" height="50"/> 
-<figcaption align = "center"><b>Spectrogram for cough voice on positive (left) and negative (right) cases</b></figcaption>
-</figure>
+<p float="left" align = "center">
+  <img src = "/images/research/voice-rec/Fig5-pos-cough-spec.png" width="450" height="300"/>
+  <img src = "/images/research/voice-rec/Fig6-neg-cough-spec.png" width="450" height="300"/>
+</p>
+<p align = "center">
+Cough spectrogram on positive (left) and negative (right) cases
+</p>
 
 # [Image diagnose on skin cancer](projects/skin-cancer.md)
 
