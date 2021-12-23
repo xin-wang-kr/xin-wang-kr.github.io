@@ -1,5 +1,5 @@
 ---
-permalink: /software/
+permalink: /application/
 title: "Application"
 ---
 
