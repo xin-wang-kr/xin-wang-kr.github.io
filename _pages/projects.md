@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 image_sliders:
   - slider1
+  - slider2
+  - slider3
 ---
 
 
@@ -16,9 +18,20 @@ Detect correct mask and mask type using MobileNet and OpenCV
 
 # [Social distancing monitoring](projects/social-distancing.md)
 
+{% include slider.html selector="slider2" %}
+
 # [Mobility analysis during COVID-19](projects/mobility.md)
 
+{% include slider.html selector="slider3" %}
+
 # [COVID-19 voice recognition](projects/voice-rec.md)
+<figure>
+<p float="left">
+  <img src="/images/research/voice-rec/Fig5-pos-cough-spec.png" width="500" height="300"/>
+  <img src="/images/research/voice-rec/Fig6-neg-cough-spec.png" width="500" height="300"/> 
+</p>
+<figcaption align = "center"><b>Spectrogram for cough voice on positive (left) and negative (right) cases</b></figcaption>
+</figure>
 
 # [Image diagnose on skin cancer](projects/skin-cancer.md)
 
