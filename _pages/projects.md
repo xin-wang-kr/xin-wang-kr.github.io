@@ -26,8 +26,8 @@ Detect correct mask and mask type using MobileNet and OpenCV
 
 # [COVID-19 voice recognition](projects/voice-rec.md)
 <figure float="left">
-  <img src="/images/research/voice-rec/Fig5-pos-cough-spec.png" width="300" height="100"/>
-  <img src="/images/research/voice-rec/Fig6-neg-cough-spec.png" width="300" height="100"/> 
+  <img src="/images/research/voice-rec/Fig5-pos-cough-spec.png" width="100" height="50"/>
+  <img src="/images/research/voice-rec/Fig6-neg-cough-spec.png" width="100" height="50"/> 
 <figcaption align = "center"><b>Spectrogram for cough voice on positive (left) and negative (right) cases</b></figcaption>
 </figure>
 
