@@ -26,12 +26,14 @@ Detect correct mask and mask type using MobileNet and OpenCV
 
 # [COVID-19 voice recognition](projects/voice-rec.md)
 <p float="left" align = "center">
-  <img src = "/images/research/voice-rec/Fig5-pos-cough-spec.png" width="450" height="300"/>
-  <img src = "/images/research/voice-rec/Fig6-neg-cough-spec.png" width="450" height="300"/>
+  <img src = "/images/research/voice-rec/Fig5-pos-cough-spec.png" width="400" height="300"/>
+  <img src = "/images/research/voice-rec/Fig6-neg-cough-spec.png" width="400" height="300"/>
 </p>
 <p align = "center">
 Cough spectrogram on positive (left) and negative (right) cases
 </p>
+
+<img src="/images/research/voice-rec/Fig5-pos-cough-spec.png" width="425" title="Cough spectrogram on positive case"/> <img src="/images/research/voice-rec/Fig6-neg-cough-spec.png" width="425" title="Cough spectrogram on negative case"/> 
 
 # [Image diagnose on skin cancer](projects/skin-cancer.md)
 
