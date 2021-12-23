@@ -10,7 +10,7 @@ image_sliders:
   - slider3
 ---
 
-
+Click the links for more details.
 # [Face mask detection](projects/face-mask.md)
 Detect correct mask and mask type using MobileNet and OpenCV
 
