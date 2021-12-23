@@ -34,7 +34,7 @@
       alt: Social distancing monitor
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
-    height: 300
+    height: 350
     initialHeight:
     maxHeight:
     interval:
@@ -58,7 +58,7 @@
       alt: Driving mobility change
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
-    height: 300
+    height: 350
     initialHeight:
     maxHeight:
     interval:
