@@ -9,6 +9,7 @@ title: "Teaching"
     - [[Syllabus](/files/pdf/teaching/Startup_Pro_AppMg_Syllabus.pdf)] [[Slide](/files/pdf/teaching/mobileApp/Slide1_AppMg.pdf)]  [[Assignments](/files/pdf/teaching/mobileApp/Homework-set.pdf)]  [[Material](/files/pdf/teaching/mobileApp/KivyMD.pdf)]
 - Python Programming in AI  (Summer 2020)
     - [Syllabus](/files/pdf/teaching/PythonAI.pdf)
+    - Slides: [[Python programming 1](/files/pdf/teaching/PythonAI/Python Programming-1.pdf)] [[Python programming 2](/files/pdf/teaching/PythonAI/Python Programming-2.pdf)] [[Python programming 3](/files/pdf/teaching/PythonAI/Python Programming-3.pdf)] [[Image Recognition](/files/pdf/teaching/PythonAI/Image Recognition.pdf)] [[Speech Recognition](/files/pdf/teaching/PythonAI/Speech Recognition.pdf)] [[Capstone Final Report Guidance](/files/pdf/teaching/PythonAI/Capstone Final Report Guidance.pdf)]
 
 ## Instructor
 *AI Hub at GEC Academy*
