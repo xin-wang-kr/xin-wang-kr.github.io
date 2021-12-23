@@ -26,14 +26,23 @@ Detect correct mask and mask type using MobileNet and OpenCV
 
 # [COVID-19 voice recognition](projects/voice-rec.md)
 <p float="left" align = "center">
-  <img src = "/images/research/voice-rec/Fig5-pos-cough-spec.png" width="400" height="300"/>
-  <img src = "/images/research/voice-rec/Fig6-neg-cough-spec.png" width="400" height="300"/>
+  <img src = "/images/research/voice-rec/Fig5-pos-cough-spec.png" width="350" height="300"/>
+  <img src = "/images/research/voice-rec/Fig6-neg-cough-spec.png" width="350" height="300"/>
 </p>
 <p align = "center">
 Cough spectrogram on positive (left) and negative (right) cases
 </p>
 
-<img src="/images/research/voice-rec/Fig5-pos-cough-spec.png" width="425" title="Cough spectrogram on positive case"/> <img src="/images/research/voice-rec/Fig6-neg-cough-spec.png" width="425" title="Cough spectrogram on negative case"/> 
+<table>
+  <tr>
+    <td><img src="/images/research/voice-rec/Fig5-pos-cough-spec.png" width=400 height=300></td>
+    <td><img src="/images/research/voice-rec/Fig6-neg-cough-spec.png" width=400 height=300></td>
+  </tr>
+  <tr>
+    <td>Cough spectrogram on positive case</td>
+    <td>Cough spectrogram on negative case</td>
+  </tr>
+ </table>
 
 # [Image diagnose on skin cancer](projects/skin-cancer.md)
 
