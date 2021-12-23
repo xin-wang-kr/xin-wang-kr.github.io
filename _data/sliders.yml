@@ -105,7 +105,7 @@
       alt: Skin cancer sample in BCN20000
     - data-src: /images/research/skin-cancer/interface.png
       data-src-2x: /images/research/skin-cancer/interface.png
-      alt: AI doctor system design
+      alt: AI doctor system interface
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
     height: 360
