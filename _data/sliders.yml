@@ -24,3 +24,47 @@
     previousNavSelector:
     nextNavSelector:
 
+- selector: slider2
+  bullets: false
+  captions: true
+  images:
+    - src: /images/research/social-distancing/frame-012.png
+      alt: Social distancing monitor
+    - data-src: /images/research/social-distancing/frame-050.png
+      alt: Social distancing monitor
+      href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
+  settings:
+    height: 300
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+   
+- selector: slider3
+  bullets: false
+  captions: true
+  images:
+    - src: /images/research/mobility/parks-state.png
+      alt: Parks mobility change - State level
+    - data-src: /images/research/mobility/tomtom.png
+      alt: Traffic congestion change
+    - data-src: /images/research/mobility/waze.png
+      data-src-2x: /images/research/mobility/waze.png
+      alt: Driving mobility change
+      href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
+  settings:
+    height: 300
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
