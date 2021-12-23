@@ -103,12 +103,12 @@
       alt: Skin cancer sample in HAM10000
     - data-src: /images/research/skin-cancer/Image9.png
       alt: Skin cancer sample in BCN20000
-    - data-src: /images/research/skin-cancer/Image7.png
-      data-src-2x: /images/research/skin-cancer/Image7.png
-      alt: AI Doctor User Interface
+    - data-src: /images/research/skin-cancer/Image4.png
+      data-src-2x: /images/research/skin-cancer/Image4.png
+      alt: AI doctor system design
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
-    height: 350
+    height: 360
     initialHeight:
     maxHeight:
     interval:
