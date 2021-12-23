@@ -56,9 +56,11 @@
     - data-src: /images/research/mobility/waze.png
       data-src-2x: /images/research/mobility/waze.png
       alt: Driving mobility change
+    - data-src: /images/research/mobility/kmean-clustering-4.png
+      alt: Mobility clustering - State level
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
-    height: 350
+    height: 360
     initialHeight:
     maxHeight:
     interval:
