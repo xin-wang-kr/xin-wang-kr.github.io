@@ -9,6 +9,7 @@ image_sliders:
   - slider2
   - slider3
   - slider4
+  - slider5
 ---
 
 Click the links for more details.
@@ -35,6 +36,7 @@ Detect correct mask and mask type using MobileNet and OpenCV
 </p>
 
 # [Image diagnose on skin cancer](projects/skin-cancer.md)
+{% include slider.html selector="slider5" %}
 
 # [AI music generation](projects/music.md)
 {% include slider.html selector="slider4" %}
