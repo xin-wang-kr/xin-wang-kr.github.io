@@ -6,7 +6,7 @@ title: "Teaching"
 ## Instructor
 *BIG DATA & AI Lab, IntelligentRabbit LLC.* 
 - Mobile App Development: Python Kivy (Summer 2020)
-    - [Syllabus](/files/pdf/teaching/Startup_Pro_AppMg_Syllabus.pdf) | [Slide](/files/pdf/teaching/mobileApp/Slide1_AppMg.pdf) | [Assignments](/files/pdf/teaching/mobileApp/Homework-set.pdf) | [Material](/files/pdf/teaching/mobileApp/KivyMD.pdf)
+    - [[Syllabus](/files/pdf/teaching/Startup_Pro_AppMg_Syllabus.pdf)] [[Slide](/files/pdf/teaching/mobileApp/Slide1_AppMg.pdf)]  [[Assignments](/files/pdf/teaching/mobileApp/Homework-set.pdf)]  [[Material](/files/pdf/teaching/mobileApp/KivyMD.pdf)]
 - Python Programming in AI  (Summer 2020)
     - [Syllabus](/files/pdf/teaching/PythonAI.pdf)
 
