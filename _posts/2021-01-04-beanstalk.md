@@ -20,11 +20,11 @@ This instruction will introduce how to launch web application on Amazon AWS Elas
 
 - Inside the above folder create a txt file and write the information shown in the figure below.
 
+```sh
 option\_settings:
-
-&quot;aws:elasticbeanstalk:container:python&quot;:
-
-WSGIPath: app:app
+  "aws:elasticbeanstalk:container:python":
+  WSGIPath: app:app
+```
 
 - Finally, zip the whole application folder.
 
