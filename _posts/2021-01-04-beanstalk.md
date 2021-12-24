@@ -1,6 +1,13 @@
-Word to Markdown Converter
-Results of converting "AWS-webApp-instruction-2"
-Markdown
+---
+title: AWS EC2 Instruction
+date: 2020-10-22
+permalink: /posts/2020/10-AWS-EC2-setting
+excerpt_separator: <!--more-->
+toc: true
+tags:
+  - beanstalk
+---
+
 **AWS Web Application Instruction**
 
 **Preparation before launch web application in AWS Elastic Beanstalk**
