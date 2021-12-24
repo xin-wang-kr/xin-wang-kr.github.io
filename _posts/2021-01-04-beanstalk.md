@@ -1,5 +1,5 @@
 ---
-title: AWS Web Application Instruction
+title: AWS Elastic Beanstalk Instruction for Web Application
 date: 2021-01-04
 permalink: /posts/2021/01-beanstalk
 excerpt_separator: <!--more-->
@@ -7,7 +7,7 @@ toc: true
 tags:
   - beanstalk
 ---
-This instruction will introduce how to launch web application on Amazon AWS Elastic Benstalk with Python, connect to EC2 instance for the application, and create the environment properly for the application. 
+This instruction will introduce how to launch web application on Amazon AWS Elastic Beanstalk with Python, connect to EC2 instance for the application, and create the environment properly for the application. 
 <!--more-->
 **Preparation before launch web application in AWS Elastic Beanstalk**
 
