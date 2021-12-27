@@ -10,9 +10,14 @@ image_sliders:
   - slider3
   - slider4
   - slider5
+  - slider6
 ---
 
 Click the links for more details.
+# [COVID-19-related anti-Asian hate indicator on YouTube comments of mainstream media](projects/anti-asian-hate-youtube.md)
+
+{% include slider.html selector="slider6" %}
+
 # [Face mask detection](projects/face-mask.md)
 Detect correct mask and mask type using MobileNet and OpenCV
 
