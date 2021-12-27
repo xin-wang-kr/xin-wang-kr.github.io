@@ -123,7 +123,7 @@
   bullets: false
   captions: true
   images:
-    - src: /images/research/anti-asian-hate-twitter/newplot (1).png
+    - src: /images/research/anti-asian-hate-twitter/newplot-(1).png
       alt: Anti-Asian hate Twitter user distribution on county level
     - data-src: /images/research/anti-asian-hate-twitter/fig2.png
       alt: Feature importance on political and geographical varialbes
