@@ -14,7 +14,7 @@ image_sliders:
 ---
 
 Click the links for more details.
-# [COVID-19-related anti-Asian hate indicator on YouTube comments of mainstream media](projects/anti-asian-hate-youtube.md)
+# [COVID-19-related hate Twitter user profile](projects/anti-asian-hate-twitter.md)
 
 {% include slider.html selector="slider6" %}
 
