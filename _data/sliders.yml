@@ -118,3 +118,27 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
+
+- selector: slider6
+  bullets: false
+  captions: true
+  images:
+    - src: /images/research/anti-asian-hate-twitter/newplot (1).png
+      alt: Anti-Asian hate Twitter user distribution on county level
+    - data-src: /images/research/anti-asian-hate-twitter/fig2.png
+      alt: Feature importance on political and geographical varialbes
+    - data-src: /images/research/anti-asian-hate-twitter/fig1.PNG
+      data-src-2x: /images/research/anti-asian-hate-twitter/fig1.PNG
+      alt: Hotspot areas with the most anti-Asian hate Twitter users
+      href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
+  settings:
+    height: 360
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
