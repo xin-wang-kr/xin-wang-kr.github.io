@@ -11,6 +11,7 @@ image_sliders:
   - slider4
   - slider5
   - slider6
+  - slider7
 ---
 
 Click the links for more details.
@@ -39,6 +40,9 @@ Detect correct mask and mask type using MobileNet and OpenCV
 <p align = "center">
   <b>Figure.</b> Cough spectrogram on positive (left) and negative (right) cases
 </p>
+
+# [Fake news detection on COVID-19-related headlines](projects/fake-news.md)
+{% include slider.html selector="slider7" %}
 
 # [Image diagnose on skin cancer](projects/skin-cancer.md)
 {% include slider.html selector="slider5" %}
