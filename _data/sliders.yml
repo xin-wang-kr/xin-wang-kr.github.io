@@ -125,8 +125,8 @@
   images:
     - src: /images/research/anti-asian-hate-twitter/fig2.png
       alt: Feature importance on political and geographical varialbes
-    - data-src: /images/research/anti-asian-hate-twitter/fig1.PNG
-      alt: Hotspot areas in states with the most anti-Asian hate Twitter users
+    - data-src: /images/research/anti-asian-hate-twitter/newyork-1.PNG
+      alt: Hotspot areas of anti-Asian hate Twitter users in New York
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
     height: 360
