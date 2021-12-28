@@ -17,6 +17,7 @@ image_sliders:
 Click the links for more details.
 # [COVID-19-related hate Twitter user profile](projects/anti-asian-hate-twitter.md)
 Charaterize Twitter hate users based on geographical and political features.
+
 {% include slider.html selector="slider6" %}
 
 # [Face mask detection](projects/face-mask.md)
@@ -26,6 +27,7 @@ Detect correct mask and mask type using MobileNet and OpenCV.
 
 # [Social distancing monitoring](projects/social-distancing.md)
 Detect safe social distancing in public areas using computer vision and OpenCV.
+
 {% include slider.html selector="slider2" %}
 
 # [Mobility analysis during COVID-19](projects/mobility.md)
