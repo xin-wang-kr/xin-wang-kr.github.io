@@ -19,7 +19,7 @@ title: "Teaching"
 *GEC Academy* 
 - Machine Learning in Biomedical Monitoring (by Prof Maarten De Vos at Katholieke Universiteit Leuven, Spring 2021)
     - [Syllabus](/files/pdf/teaching/ML-bio.pdf)
-- Applied Machine Learning (by Prof Stephen Collgeshall at University of Southern California, Winter 2020)
+- Applied Machine Learning (by Prof Stephen Coggeshall at University of Southern California, Winter 2020)
     - [Syllabus](/files/pdf/teaching/AP-Machine Learning.pdf)
 - Algorithmic Foundations of Learning (by Prof Patrick Rebeschini at Oxford University, Summer 2020)
     - [Syllabus](/files/pdf/teaching/AlgorithmL.pdf)
