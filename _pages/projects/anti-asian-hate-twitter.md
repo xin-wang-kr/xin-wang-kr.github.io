@@ -1,5 +1,5 @@
 ---
-title: Anti-Asian hate on social media
+title: COVID-19-related hate Twitter user profile
 permalink: /projects/anti-asian-hate-twitter
 ---
 
