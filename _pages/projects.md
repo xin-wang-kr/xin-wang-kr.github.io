@@ -12,9 +12,14 @@ image_sliders:
   - slider5
   - slider6
   - slider7
+  - slider8
 ---
 
 Click the links for more details.
+# [Anti-Asian Hate Indicator on YouTube Mainstream News Media Channels](projects/anti-asian-hate-youtube.md
+Characterize anti-Asian hate overtime based on sentiment analysis and signal processing.
+{% include slider.html selector="slider8" %}
+
 # [COVID-19-related hate Twitter user profile](projects/anti-asian-hate-twitter.md)
 Charaterize Twitter hate users based on geographical and political features.
 
