@@ -16,8 +16,9 @@ image_sliders:
 ---
 
 Click the links for more details.
-# [Anti-Asian Hate Indicator on YouTube Mainstream News Media Channels](projects/anti-asian-hate-youtube.md
+# [Anti-Asian Hate Indicator on YouTube Mainstream News Media Channels](projects/anti-asian-hate-youtube.md)
 Characterize anti-Asian hate overtime based on sentiment analysis and signal processing.
+
 {% include slider.html selector="slider8" %}
 
 # [COVID-19-related hate Twitter user profile](projects/anti-asian-hate-twitter.md)
@@ -49,11 +50,14 @@ Detect safe social distancing in public areas using computer vision and OpenCV.
 </p>
 
 # [Fake news detection on COVID-19-related headlines](projects/fake-news.md)
+
 {% include slider.html selector="slider7" %}
 
 # [Image diagnose on skin cancer](projects/skin-cancer.md)
+
 {% include slider.html selector="slider5" %}
 
 # [AI music generation](projects/music.md)
+
 {% include slider.html selector="slider4" %}
 ![](/files/audio/projects/LSTM_music.wav)
