@@ -14,7 +14,7 @@ Welcome! I am a COVID-19 research team leader in the
 [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) 
 at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Before that, I was a machine
 learning engineer at 
-[Tianjin Value Fair Technology Inc](http://www.valuefair.cn/) in China. I earned my master 
+Tianjin Value Fair Technology Inc in China. I earned my master 
 in Data Science in 2018 and a bachelor in Industrial Engineering at Aeronautical Engineering direction in 2014. 
 I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), 
 having served Goolge AI Impact Challenge and data.org Challenge in 2019 and 2020.
