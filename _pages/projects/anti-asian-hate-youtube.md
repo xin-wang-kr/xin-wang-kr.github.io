@@ -1,5 +1,5 @@
 ---
-title: COVID-19-related anti-Asian hate indicator on YouTube comments of mainstream media
+title: Anti-Asian Hate Indicator on YouTube Mainstream News Media Channels
 permalink: /projects/anti-asian-hate
 ---
 
