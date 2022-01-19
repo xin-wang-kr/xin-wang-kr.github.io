@@ -160,3 +160,24 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
+
+- selector: slider8
+  bullets: false
+  captions: true
+  images:
+    - src: /images/research/anti-asian-hate-youtube/time-series-events.png
+      alt: Anti-Asian hate indicator on YouTube channels with events
+    - data-src: /images/research/anti-asian-hate-youtube/channel-16.png
+      alt: Anti-Asian hate indicator for 16 Mainstream Media Channels
+      href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
+  settings:
+    height: 360
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
