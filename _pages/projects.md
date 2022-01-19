@@ -49,11 +49,11 @@ Detect safe social distancing in public areas using computer vision and OpenCV.
   <b>Figure.</b> Cough spectrogram on positive (left) and negative (right) cases
 </p>
 
-# [Fake news detection on COVID-19-related headlines](projects/fake-news.md)
+# [Face news and misinfromation detection on mainstream media](projects/fake-news.md)
 
 {% include slider.html selector="slider7" %}
 
-# [Image diagnose on skin cancer](projects/skin-cancer.md)
+# [Image diagnose on skin cancer using ensemble learning](projects/skin-cancer.md)
 
 {% include slider.html selector="slider5" %}
 
