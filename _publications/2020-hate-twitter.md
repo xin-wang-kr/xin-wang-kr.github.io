@@ -2,7 +2,7 @@
 title: "Classifying COVID-19-related hate Twitter users using deep neural networks with sentiment-based features and geopolitical factors"
 collection: publications
 permalink: /publication/2020-hate-twitter
-excerpt: "Pandemic-related-hate; GIS; Sentiment analysis; Anti-Asian Hate tweets; Deep neural network algorithm<br />**Abstract:** Anti-Asian hate tweets caused by COVID-19 pandemic is an
+excerpt: "Pandemic-related-hate; GIS; Sentiment analysis; Anti-Asian Hate tweets; Deep neural network algorithm<br /><br />**Abstract:** Anti-Asian hate tweets caused by COVID-19 pandemic is an
 ongoing social problem in the USA and around the world. Although existing
 studies have been done by using a text classifier, little is known on how deep
 learning works with public sentiments of political opinions and geographical
