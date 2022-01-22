@@ -2,7 +2,7 @@
 title: "Satellite Image Recognition for Smart Ships Using A Convolutional Neural Networks Algorithm"
 collection: publications
 permalink: /publication/2019-smart-ships
-excerpt: "Image feature extraction from JSON object; CNN algorithm; Python Tensorflow<br />**Abstract:**In recent years, along with the development of artificial intelligence technologies and related technical products, the
+excerpt: "Image feature extraction from JSON object; CNN algorithm; Python Tensorflow<br /><br />**Abstract:**In recent years, along with the development of artificial intelligence technologies and related technical products, the
 evolution of smart ship has accelerated. Smart ship has become the main development direction of ship industry in the
 future. In this paper, we proposed a CNN model to recognize ships in bay and sea area. Data sets of Ships in Satellite
 Imagery data and Airbus data were employed for model training and testing and features are pixel data of images and
