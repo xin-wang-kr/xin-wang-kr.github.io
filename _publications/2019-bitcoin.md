@@ -2,7 +2,7 @@
 title: "The Relationship between Bitcoin and Stock Market"
 collection: publications
 permalink: /publication/2019-bitcoin
-excerpt: "Blockchain technique; Cryptocurrecy; VAR model; Impulse response analysis; Price return; Sliding window technique; Yahoo API<br />**Abstract:**This article analyzes the relationship between Bitcoin and the stock market by using a vector
+excerpt: "Blockchain technique; Cryptocurrecy; VAR model; Impulse response analysis; Price return; Sliding window technique; Yahoo API<br /><br />**Abstract:**This article analyzes the relationship between Bitcoin and the stock market by using a vector
 autoregressive model. To enhance the impulse response signal, the Sliding Window technique is
 applied. Study results show the relationship between Bitcoin and the stock market. First, the S&P 500
 has a relatively significant effect on Bitcoin, while the influence caused by the S&P 500 is weak. In
