@@ -13,6 +13,9 @@ title: "Teaching"
 
 ## Instructor
 *AI Hub at GEC Academy*
+- Intro to Java (Undergraduate and Graduate level, Summer 2022)
+    - [Lesson plan](/files/pdf/teaching/IntroJava.pdf)
+    - Slides: [[Lecture 1](/files/pdf/teaching/IntroJava/Lecture1.pdf)]  [[Lecture 2](/files/pdf/teaching/IntroJava/Lecture2.pdf)]  [[Lecture 3](/files/pdf/teaching/IntroJava/Lecture3.pdf)]  [[Lecture 4](/files/pdf/teaching/IntroJava/Lecture4.pdf)]  [[Lecture 5](/files/pdf/teaching/IntroJava/Lecture5.pdf)]
 - Academic writing (Graduate level, Summer 2021)
 
 ## Teaching Assistant 
