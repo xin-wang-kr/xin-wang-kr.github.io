@@ -9,7 +9,8 @@ tags:
 ---
 This instruction will introduce how to launch web application on Amazon AWS Elastic Beanstalk with Python, connect to EC2 instance for the application, and create the environment properly for the application. 
 <!--more-->
-**Preparation before launch web application in AWS Elastic Beanstalk**
+
+**Preparation before launch web application in AWS Elastic Beanstalk:**
 
 - Make sure your web app was created in a virtual environment.
 - Go to the directory where the virtual environment is and activate it through &quot;.\_your\_virtual\_environment\_name_\Scripts\activate&quot; for windows operation system (Reference: [https://docs.python.org/3/tutorial/venv.html](https://docs.python.org/3/tutorial/venv.html)). Save the installed modules in this environment using &quot; **pip freeze \&gt; requirements.txt**&quot;.
