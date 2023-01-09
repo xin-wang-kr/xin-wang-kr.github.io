@@ -22,7 +22,7 @@ having served Goolge AI Impact Challenge in 2019 and data.org Growth and Recover
 In 2016, I achieved a certification from Google Developer StudyJams on Android mobile app in Java.
 
 My research works have been [published](publications) in
-*International Journal of Society Systems Science*, *International Journal of Data Science* (Elsevier index),
+*International Journal of Society Systems Science*, *International Journal of Data Science* (**Elsevier index**),
 *International Journal of Operations Research and Information Systems*,
 *International Journal of Decision Science*,
 *International Journal of Data Analysis and Information Systems* and *IGI Global*. 
@@ -37,12 +37,13 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
-* Jun 2022, attended Data+AI Summit 2022, organized by Databricks.
-* Nov 2021, attended Samsung AI Forum, organized by Samsung.
-* Sep 2021, attended Virtual DataDive Event 2021, organized by DataKind Global.
+* Jun 2022, attended __Data+AI Summit 2022__, organized by Databricks.
+* Nov 2021, attended __Samsung AI Forum__, organized by Samsung.
+* Sep 2021, attended __Virtual DataDive Event 2021__, organized by DataKind Global.
 * Jul 2021, my co-authored paper on anti-Asian hate on Twitter was selected as finding news by Indersceicne ([report link](https://sciencespot.co.uk/covid-19-related-xenophobia.html))
 * Jun 2021, multiple technology media reported my fake news research, including [Techxplore](https://techxplore.com/news/2021-06-fake-news.html), [TechiLive.in](https://techilive.in/editing-out-fake-news/), [News AZI](https://newsazi.com/editing-out-fake-news/), [News8Plus](https://news8plus.com/editing-out-fake-news/) etc.
 * Jun 2021, my first-author paper on COVID-19 fake news and misinformation was selected as finding news by Inderscience ([report link](https://sciencespot.co.uk/editing-out-fake-news.html)).
-* Oct 2020, attended 2020 IDEAS Global Ai Conference, organized by International Data Engineering and Science Association.
-* Jul 2020, attended ALife 2020, organized by Internaltional Society for Artificial Life.
-* Jun 2020, awarded ALife Student Scholarship by ALife 2020 organizing committee.
+* Oct 2020, attended __2020 IDEAS Global Ai Conference__, organized by International Data Engineering and Science Association.
+* Jul 2020, attended __ALife 2020__, organized by Internaltional Society for Artificial Life.
+* Jun 2020, awarded __ALife Student Scholarship__ by ALife 2020 organizing committee.
+* Jul 2014, awarded __Third Prize of 2014 Cross-Strait Contest of Outstanding Bachelor’s Degree Thesis (10/15)__ by Chinese Institute of Industrial Engineering
