@@ -22,7 +22,7 @@ having served Goolge AI Impact Challenge in 2019 and data.org Growth and Recover
 In 2016, I achieved a certification from Google Developer StudyJams on Android mobile app in Java.
 
 My research works have been [published](publications) in
-*International Journal of Society Systems Science*, *International Journal of Data Science*,
+*International Journal of Society Systems Science*, *International Journal of Data Science* (Elsevier index),
 *International Journal of Operations Research and Information Systems*,
 *International Journal of Decision Science*,
 *International Journal of Data Analysis and Information Systems* and *IGI Global*. 
