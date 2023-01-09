@@ -40,6 +40,8 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 * Jun 2022, attended Data+AI Summit 2022, organized by Databricks.
 * Nov 2021, attended Samsung AI Forum, organized by Samsung.
 * Sep 2021, attended Virtual DataDive Event 2021, organized by DataKind Global.
+* Jun 2021, multiple technology media reported my fake news research.
+* Jun 2021, my first-author paper on COVID-19 fake news and misinformation was selected as finding news by Inderscience ([report link](https://sciencespot.co.uk/editing-out-fake-news.html))
 * Oct 2020, attended 2020 IDEAS Global Ai Conference, organized by International Data Engineering and Science Association.
 * Jul 2020, attended ALife 2020, organized by Internaltional Society for Artificial Life.
 * Jun 2020, awarded ALife Student Scholarship by ALife 2020 organizing committee.
