@@ -14,8 +14,7 @@ Welcome! I am currently a Ph.D. student in Systems Science at the State Universi
 Before joining the Ph.D. program, I was a COVID-19 research team leader in the
 [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) 
 at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Besides, I was a machine
-learning engineer at 
-Tianjin Value Fair Technology Inc in China. I earned my master 
+learning engineer at Tianjin Value Fair Technology Inc in China in 2017, working for . I earned my master 
 in Data Science in 2018 and a bachelor in Industrial Engineering at Aeronautical Engineering direction in 2014. 
 I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), 
 having served Goolge AI Impact Challenge in 2019 and data.org Growth and Recovery Challenge for COVID-19 in 2020.
