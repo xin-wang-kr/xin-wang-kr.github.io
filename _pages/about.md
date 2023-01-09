@@ -42,7 +42,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 * Sep 2021, attended Virtual DataDive Event 2021, organized by DataKind Global.
 * Jul 2021, my co-authored paper on anti-Asian hate on Twitter was selected as finding news by Indersceicne ([report link](https://sciencespot.co.uk/covid-19-related-xenophobia.html))
 * Jun 2021, multiple technology media reported my fake news research, including [Techxplore](https://techxplore.com/news/2021-06-fake-news.html), [TechiLive.in](https://techilive.in/editing-out-fake-news/), [News AZI](https://newsazi.com/editing-out-fake-news/), [News8Plus](https://news8plus.com/editing-out-fake-news/) etc.
-* Jun 2021, my first-author paper on COVID-19 fake news and misinformation was selected as finding news by Inderscience ([report link](https://sciencespot.co.uk/editing-out-fake-news.html))
+* Jun 2021, my first-author paper on COVID-19 fake news and misinformation was selected as finding news by Inderscience ([report link](https://sciencespot.co.uk/editing-out-fake-news.html)).
 * Oct 2020, attended 2020 IDEAS Global Ai Conference, organized by International Data Engineering and Science Association.
 * Jul 2020, attended ALife 2020, organized by Internaltional Society for Artificial Life.
 * Jun 2020, awarded ALife Student Scholarship by ALife 2020 organizing committee.
