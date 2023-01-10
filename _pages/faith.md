@@ -12,4 +12,4 @@ ceremony promotion video by clicking the picture below.
 
 [![103,764 Graduation Ceremony](https://img.youtube.com/vi/i5yU0f3cZtE/0.jpg)](https://www.youtube.com/watch?v=i5yU0f3cZtE "103,764 Graduation Ceremony")
 
-Welcome to contact me, if you want to discuss more about it with me.
+Welcome to [contact me](mailto:xinwang35314@gmail.com), if you want to discuss more about it with me.
