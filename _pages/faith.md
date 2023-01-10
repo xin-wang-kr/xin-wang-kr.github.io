@@ -9,4 +9,4 @@ title: "Faith"
 
 In 2019, I graduated from theology seminary at Zion Christian Mission Center in New York. 
 
-[![](https://markdown-videos.deta.dev/youtube/i5yU0f3cZtE)](https://youtu.be/i5yU0f3cZtE)
+[![103,764 Graduation Ceremony](https://img.youtube.com/vi/i5yU0f3cZtE/0.jpg)](https://www.youtube.com/watch?v=i5yU0f3cZtE "103,764 Graduation Ceremony")
