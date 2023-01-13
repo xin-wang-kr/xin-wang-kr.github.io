@@ -9,7 +9,6 @@ title: "Faith"
 
 In 2019, I graduated from theology seminary at Zion Christian Mission Center in New York. If you have interest to know it, you can watch my graduation
 ceremony promotion video below. 
-
 <video muted autoplay controls width="768" height="512">
     <source src="/files/videos/Graduation-promotion.MP4" type="video/mp4">
 </video>
