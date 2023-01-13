@@ -13,4 +13,4 @@ ceremony promotion video below.
     <source src="/files/videos/Graduation-promotion.MP4" type="video/mp4">
 </video>
 
-Welcome to [contact me](mailto:xinwang35314@gmail.com), if you want to discuss more about it with me.
+Welcome to [contact me](mailto:xinwang35314@gmail.com), if you want to discuss more about Bible with me.
