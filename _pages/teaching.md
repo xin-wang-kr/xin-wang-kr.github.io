@@ -18,6 +18,11 @@ title: "Teaching"
     - Slides: [[Lecture 1](/files/pdf/teaching/IntroJava/Lecture1.pdf)]  [[Lecture 2](/files/pdf/teaching/IntroJava/Lecture2.pdf)]  [[Lecture 3](/files/pdf/teaching/IntroJava/Lecture3.pdf)]  [[Lecture 4](/files/pdf/teaching/IntroJava/Lecture4.pdf)]  [[Lecture 5](/files/pdf/teaching/IntroJava/Lecture5.pdf)]
 - Academic writing (Graduate level, Summer 2021)
 
+## Teaching Assistant
+*Department of Systems Science and Industrial Engineering, SUNY at Binghamton*
+- •	Probabilistic Systems I (Spring 2023, teaching discussion section weekly)
+    - [Syllabus](/files/pdf/teaching/Prob-Syllabus.pdf)
+
 ## Teaching Assistant 
 *GEC Academy* 
 - Machine Learning in Biomedical Monitoring (by Prof Maarten De Vos at Katholieke Universiteit Leuven, Spring 2021)
