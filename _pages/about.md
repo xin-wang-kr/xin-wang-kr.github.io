@@ -25,8 +25,8 @@ My research works have been [published](publications) in
 *International Journal of Operations Research and Information Systems*,
 *International Journal of Decision Science*,
 *International Journal of Data Analysis and Information Systems* and *IGI Global*. 
-I had [researches](research) on Fake News and Misinformation detection, Anti-Asian hater profile and geographical 
-analysis, Anti-Asian hate indicator establishment, smart ship, the relationship between Bitcoin and stock market,
+I had [researches](research) on fake news and misinformation detection, anti-Asian hater profile and geographical 
+analysis, anti-Asian hate indicator establishment, smart ship, the relationship between Bitcoin and stock market,
 AI music generation, image diagnosis on skin cancer, region-based bird call recognition, face mask detection, and etc. 
 
 Recently, I am conducting two researches. One is on COVID-19 vaccine confidence analysis through textual and visual sentiments detected from
