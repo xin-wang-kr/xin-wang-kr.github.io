@@ -20,7 +20,7 @@ title: "Teaching"
 
 ## Teaching Assistant
 *Department of Systems Science and Industrial Engineering, SUNY at Binghamton*
-- Probabilistic Systems I (Spring 2023, teaching discussion section weekly)
+- Probabilistic Systems I (Undergraduate level, Spring 2023, teaching discussion section weekly)
     - [Syllabus](/files/pdf/teaching/Prob-Syllabus.pdf)
 
 ## Teaching Assistant 
