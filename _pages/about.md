@@ -10,8 +10,7 @@ image_sliders:
   - slider1
 ---
 
-Welcome! I am currently a Ph.D. student in Systems Science at the State University of New York at Binghamton. 
-Before joining the Ph.D. program, I was a COVID-19 research team leader in the
+Welcome! I am currently pursuing Ph.D. study. Before that, I was a COVID-19 research team leader in the
 [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) 
 at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Besides, I was a machine
 learning engineer at Tianjin Value Fair Technology Inc in China in 2017. I earned my master 
