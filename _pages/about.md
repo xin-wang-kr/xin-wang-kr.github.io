@@ -28,7 +28,7 @@ I had [research](research) on fake news and misinformation detection, anti-Asian
 analysis, anti-Asian hate indicator establishment, smart ship, the relationship between Bitcoin and stock market,
 AI music generation, image diagnosis on skin cancer, region-based bird call recognition, face mask detection, and etc. 
 
-Recently, I am conducting two studies. One is on COVID-19 vaccine confidence analysis in a global scale through textual and visual sentiments detected from the user-generated contents on Instagram. The other is to predict human biomarkers, such as heart rate, through generating emotional features on tweets and applying wearable technology.
+<ins>**Recently**</ins>, I am conducting two studies. One is on COVID-19 vaccine confidence analysis in a global scale through textual and visual sentiments detected from the user-generated contents on Instagram. The other is to predict human biomarkers, such as heart rate, through generating emotional features on tweets and applying wearable technology.
 
 I have [taught](teaching) courses in Mobile App Development and Python Programming in AI at BIG DATA & AI Lab at IntelligentRabbit LLC.
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
