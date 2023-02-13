@@ -13,8 +13,8 @@ image_sliders:
 Welcome! I am currently pursuing Ph.D. study. Before that, I was a COVID-19 research team leader in the
 [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) 
 at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Besides, I was a machine
-learning engineer at Tianjin Value Fair Technology Inc in China in 2017. I earned my master 
-in Data Science in 2018 and a bachelor in Industrial Engineering at Aeronautical Engineering direction in 2014. 
+learning engineer at Tianjin Value Fair Technology Inc in China in 2017. I earned my master's degree 
+in Data Science in 2018 and a bachelor's degree in Industrial Engineering at Aeronautical Engineering direction in 2014. 
 I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), 
 having served Goolge AI Impact Challenge in 2019 and data.org Growth and Recovery Challenge for COVID-19 in 2020.
 In 2016, I achieved a certification from Google Developer StudyJams on Android mobile app in Java.
@@ -28,8 +28,7 @@ I had [research](research) on fake news and misinformation detection, anti-Asian
 analysis, anti-Asian hate indicator establishment, smart ship, the relationship between Bitcoin and stock market,
 AI music generation, image diagnosis on skin cancer, region-based bird call recognition, face mask detection, and etc. 
 
-Recently, I am conducting two researches. One is on COVID-19 vaccine confidence analysis through textual and visual sentiments detected from
-user-generated contents on Instagram. The other is to predict human biomarkers, such as heart rate, through emotional features on tweets.
+Recently, I am conducting two studies. One is on COVID-19 vaccine confidence analysis in a global scale through textual and visual sentiments detected from the user-generated contents on Instagram. The other is to predict human biomarkers, such as heart rate, through generating emotional features on tweets and applying wearable technology.
 
 I have [taught](teaching) courses in Mobile App Development and Python Programming in AI at BIG DATA & AI Lab at IntelligentRabbit LLC.
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
