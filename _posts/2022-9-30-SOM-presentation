@@ -5,7 +5,7 @@ permalink: /posts/2022/09-SOM-presentation
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - aws
+  - SOM
 ---
 Self-Organizing Maps(SOMs) are a form of unsupervised neural network that are used for visualization and exploratory data analysis of high dimensional datasets. Through a paper presentation, I tried to show how to use SOM on text similarity analysis in a visual method.
 <!--more-->
