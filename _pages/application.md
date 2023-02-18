@@ -5,11 +5,11 @@ title: "Application"
 
 ## COVID-19 Fake News Web Detector 
 Built with TensorFlow, HTML, and Flask
+
+The app is deployed on Heroku: [https://fake-news-detector-cnn.herokuapp.com/](https://fake-news-detector-cnn.herokuapp.com/). 
 <video muted autoplay controls width="768" height="512">
     <source src="/files/videos/fake-news-heroku.mp4" type="video/mp4">
 </video>
-
-The app is deployed on Heroku: [https://fake-news-detector-cnn.herokuapp.com/](https://fake-news-detector-cnn.herokuapp.com/). 
 
 ## COVID-19 Global Case Analysis Interactive Web App
 Built with Pandas, HTML, and Python Dash
