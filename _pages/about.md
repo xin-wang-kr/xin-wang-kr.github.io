@@ -28,12 +28,13 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
+* Feb 2023, my poster proposal was accepted by __Human-computer Interaction (HCI) 2023__.
 * Jun 2022, attended __Data+AI Summit 2022__, organized by Databricks.
 * Nov 2021, attended __Samsung AI Forum__, organized by Samsung.
 * Sep 2021, attended __Virtual DataDive Event 2021__, organized by DataKind Global.
-* Jul 2021, my co-authored paper on anti-Asian hate on Twitter was selected as finding news by Indersceicne Research. [[link](https://sciencespot.co.uk/covid-19-related-xenophobia.html)]
+* Jul 2021, my co-authored paper on anti-Asian hate on Twitter was selected as finding news by __Indersceicne Research__. [[link](https://sciencespot.co.uk/covid-19-related-xenophobia.html)]
 * Jun 2021, multiple technology media reported my fake news research, including [Techxplore](https://techxplore.com/news/2021-06-fake-news.html), [TechiLive.in](https://techilive.in/editing-out-fake-news/), [News AZI](https://newsazi.com/editing-out-fake-news/), [News8Plus](https://news8plus.com/editing-out-fake-news/) etc.
-* Jun 2021, my first-author paper on COVID-19 fake news and misinformation was selected as finding news by Inderscience Research. [[link](https://sciencespot.co.uk/editing-out-fake-news.html)]
+* Jun 2021, my first-author paper on COVID-19 fake news and misinformation was selected as finding news by __Inderscience Research__. [[link](https://sciencespot.co.uk/editing-out-fake-news.html)]
 * Oct 2020, attended __2020 IDEAS Global AI Conference__, organized by International Data Engineering and Science Association.
 * Jul 2020, attended __ALife 2020__, organized by Internaltional Society for Artificial Life.
 * Jun 2020, awarded __ALife Student Scholarship__ by ALife 2020 organizing committee.
