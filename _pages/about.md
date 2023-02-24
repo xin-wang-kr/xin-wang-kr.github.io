@@ -28,7 +28,7 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
-* Feb 2023, my poster proposal was accepted by __Human-computer Interaction (HCI) 2023__.
+* Feb 2023, my poster proposal was accepted by __Human-computer Interaction (HCI) International 2023__.
 * Jun 2022, attended __Data+AI Summit 2022__, organized by Databricks.
 * Nov 2021, attended __Samsung AI Forum__, organized by Samsung.
 * Sep 2021, attended __Virtual DataDive Event 2021__, organized by DataKind Global.
