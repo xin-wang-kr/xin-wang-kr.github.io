@@ -29,6 +29,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 
 # News
 * Feb 2023, my poster proposal was accepted by __Human-computer Interaction (HCI) International 2023__.
+* Feb 2023, attended __Art-of-the-Possible Webinar: The Power of Data Science for Social Impact__, organized by DataKind Global.
 * Jun 2022, attended __Data+AI Summit 2022__, organized by Databricks.
 * Nov 2021, attended __Samsung AI Forum__, organized by Samsung.
 * Sep 2021, attended __Virtual DataDive Event 2021__, organized by DataKind Global.
