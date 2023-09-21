@@ -7,7 +7,7 @@ toc: true
 tags:
   - JobsV
 ---
-I optimize the visualization on projected growth of 20 hybrid jobs (oringinal source: https://www.cfr.org/report/the-work-ahead/data-visualizations.php)
+I optimize the visualization on projected growth of 20 hybrid jobs (oringinal source: [https://www.cfr.org/report/the-work-ahead/data-visualizations.php](https://www.cfr.org/report/the-work-ahead/data-visualizations.php))
  
 <!--more-->
 Updating
