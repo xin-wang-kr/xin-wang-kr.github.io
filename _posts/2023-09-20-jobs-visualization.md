@@ -10,4 +10,4 @@ tags:
 I optimize the visualization on projected growth of 20 hybrid jobs (oringinal source: https://www.cfr.org/report/the-work-ahead/data-visualizations.php)
  
 <!--more-->
-{% include 20jobs.html %}
+{% _posts 20jobs.html %}
