@@ -5,7 +5,7 @@ permalink: /posts/2023/09-jobs-visualization
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - 20jobs-visualization
+  - jobs-visualization
 ---
 I optimize the visualization on projected growth of 20 hybrid jobs (oringinal source: https://www.cfr.org/report/the-work-ahead/data-visualizations.php)
  
