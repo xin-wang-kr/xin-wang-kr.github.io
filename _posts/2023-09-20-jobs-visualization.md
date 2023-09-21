@@ -1,7 +1,7 @@
 ---
 title: Visualization work for the Projected Growth of 20 Hybrid Jobs
 date: 2023-09-20
-permalink: /posts/2023/09-20jobs-visualization
+permalink: /posts/2023/09-jobs-visualization
 excerpt_separator: <!--more-->
 toc: true
 tags:
