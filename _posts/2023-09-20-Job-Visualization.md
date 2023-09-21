@@ -11,3 +11,4 @@ I optimize the visualization on projected growth of 20 hybrid jobs (oringinal so
  
 <!--more-->
 Updating
+ {% posts 20jobs.html %}
