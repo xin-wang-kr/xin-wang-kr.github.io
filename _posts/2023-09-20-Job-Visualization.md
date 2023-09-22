@@ -21,7 +21,8 @@ This oringinal visualization presents the projected growth for the top 20 US hyb
 The visualization can be improved in two different ways. One way is to make a grouped bar chart. The other way is to use color map to indicate the number of postings for each job. The detailed explanations are given below.
 1. Make a grouped bar chart (refers to Figure 1)
 Since the three variables have quite different numerical scope, to better visualize in a grouped bar chart, we can normalize these three variables into [0, 1] scope, separately. We can use three different colors, including blue, orange, and green, to represent these three variables, as shown in Figure 1.
-
+![](images/posts/Job-Visualization/plot.png)
 
 2. Use color map (refers to Figure 2)
 In the original visualization, we can see that some circles overlapped together. To solve this problem, I suggest changing the x axis and y axis to number of postings and average salary, respectively. Colormap Viridis is applied to indicate the projected growth, as shown in Figure 2.
+![](images/posts/Job-Visualization/newplot.png)
