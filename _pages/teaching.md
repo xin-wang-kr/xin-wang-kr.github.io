@@ -16,10 +16,12 @@ title: "Teaching"
 - Intro to Java (Undergraduate and Graduate level, Summer 2022)
     - [Lesson plan](/files/pdf/teaching/IntroJava.pdf)
     - Slides: [[Lecture 1](/files/pdf/teaching/IntroJava/Lecture1.pdf)]  [[Lecture 2](/files/pdf/teaching/IntroJava/Lecture2.pdf)]  [[Lecture 3](/files/pdf/teaching/IntroJava/Lecture3.pdf)]  [[Lecture 4](/files/pdf/teaching/IntroJava/Lecture4.pdf)]  [[Lecture 5](/files/pdf/teaching/IntroJava/Lecture5.pdf)]
-- Academic writing (Graduate level, Summer 2021)
+- Academic writing (Graduate level, Summer 2021 + Summer 2023)
 
 ## Teaching Assistant
 *Department of Systems Science and Industrial Engineering, SUNY at Binghamton*
+- Introduction to Systems Science, Fall 2023
+    - [Syllabus](/files/pdf/teaching/SSIE-501-Syllabus.pdf)
 - Probabilistic Systems I (Undergraduate level, Spring 2023, teaching discussion section weekly)
     - [Syllabus](/files/pdf/teaching/Prob-Syllabus.pdf)
 
