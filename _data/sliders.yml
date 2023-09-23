@@ -188,7 +188,7 @@
   images:
     - src: images/another_channel/Gigi.JPG
       alt: Gigi 🐤
-    - data-src: images/another_channel/nezu-1.png
+    - data-src: images/another_channel/Nezu.jpeg
       alt: Nezu 🐱
     - data-src: images/another_channel/hand-writing-verse.JPG
       data-src-2x: images/another_channel/hand-writing-verse.JPG
