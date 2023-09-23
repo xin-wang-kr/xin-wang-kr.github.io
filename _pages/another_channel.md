@@ -2,8 +2,6 @@
 layout: archive
 title: "Another Channel"
 permalink: /another_channel/
-author_profile: true
-classes: wide
 image_sliders:
   - slider9
 ---
