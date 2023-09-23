@@ -20,7 +20,7 @@ title: "Teaching"
 
 ## Teaching Assistant
 *Department of Systems Science and Industrial Engineering, SUNY at Binghamton*
-- Introduction to Systems Science, Fall 2023
+- Introduction to Systems Science (Undergraduate and Graduate level, Fall 2023)
     - [Syllabus](/files/pdf/teaching/SSIE-501-Syllabus.pdf)
 - Probabilistic Systems I (Undergraduate level, Spring 2023, teaching discussion section weekly)
     - [Syllabus](/files/pdf/teaching/Prob-Syllabus.pdf)
