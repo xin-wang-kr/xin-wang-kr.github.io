@@ -181,3 +181,27 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
+
+- selector: slider9
+  bullets: false
+  captions: true
+  images:
+    - src: images/another_channel/Gigi.JPG
+      alt: Gigi 🐤
+    - data-src: images/another_channel/nezu-1.JPG
+      alt: Nezu 🐱
+    - data-src: images/another_channel/hand-writing-verse.JPG
+      data-src-2x: images/another_channel/hand-writing-verse.JPG
+      alt: Handwriting Bible verses 📝
+      href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
+  settings:
+    height: 370
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
