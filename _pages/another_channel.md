@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Another Channel"
 permalink: /another_channel/
 image_sliders:
