@@ -10,3 +10,6 @@ image_sliders:
 {% include slider.html selector="slider9" %}
 
 Sushi Babies
+<video muted autoplay controls width="768" height="512">
+    <source src="/files/videos/sushi.mp4" type="video/mp4">
+</video>
