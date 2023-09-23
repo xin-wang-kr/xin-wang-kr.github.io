@@ -193,6 +193,8 @@
     - data-src: images/another_channel/hand-writing-verse.JPG
       data-src-2x: images/another_channel/hand-writing-verse.JPG
       alt: Handwriting Bible verses 📝
+    - src: images/another_channel/hand-in-hand.JPG
+      alt: Handmaking Hand in Hand 
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
     height: 400
