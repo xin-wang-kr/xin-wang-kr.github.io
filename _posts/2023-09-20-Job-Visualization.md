@@ -10,7 +10,7 @@ tags:
 I optimize the visualization on projected growth of 20 hybrid jobs ([oringinal source](https://www.cfr.org/report/the-work-ahead/data-visualizations.php))
  
 <!--more-->
-## Prolbem analysis
+## Problem analysis
 This oringinal visualization presents the projected growth for the top 20 US hybrid jobs. Each hybrid job has three different variables, including the percentage of projected growth, salary, and the number of job postings in 2016. We can see the visualization is problematic for the following reasons:
 -	It’s not easy to identify the difference of circle size, especially when numbers of postings are quite close to each other. In the visualization, the circle sizes for web developer and java developer look same. These two hybrid jobs have the same projected growth; however, the average salary of java developer is higher than the one of web developer. In this situation, the exact number of job postings can help better know the demands of the job position.
 -	Some hybrid job cannot show up, since the circle size is too small. For example, biostatistics manager is a well-paying job that has high projected growth, however, there were very few postings for the role in 2016.
