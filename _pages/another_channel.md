@@ -15,3 +15,5 @@ image_sliders:
   - slider8
 ---
 ## Hello! This is another channel for my daily life.
+
+{% include slider.html selector="slider9" %}
