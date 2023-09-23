@@ -24,7 +24,7 @@ Since the three variables have quite different numerical scope, to better visual
 ![](/images/posts/Job-Visualization/plot.png)
 <p align="center">Figure 1.</p>
 
-3. Use color map (refers to Figure 2)
+2. Use color map (refers to Figure 2)
 In the original visualization, we can see that some circles overlapped together. To solve this problem, I suggest changing the x axis and y axis to number of postings and average salary, respectively. Colormap Viridis is applied to indicate the projected growth, as shown in Figure 2.
 ![](/images/posts/Job-Visualization/newplot.png)
 <p align="center">Figure 2.</p>
