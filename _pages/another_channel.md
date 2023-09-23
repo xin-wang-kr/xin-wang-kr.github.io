@@ -8,3 +8,5 @@ image_sliders:
 ### Hello! This is another channel for my daily life.
 
 {% include slider.html selector="slider9" %}
+
+Sushi Babies
