@@ -212,18 +212,16 @@
   bullets: false
   captions: true
   images:
-    - src: images/another_channel/Gigi.JPG
-      alt: Gigi 🐤
-    - data-src: images/another_channel/Nezu-2.jpg
-      alt: Nezu 🐱
-    - data-src: images/another_channel/hand-writing-verse.JPG
-      data-src-2x: images/another_channel/hand-writing-verse.JPG
-      alt: Handwriting Bible verses 📝
-    - src: images/another_channel/hand-in-hand.JPG
-      alt: Handmaking Hand in Hand 
+    - src: images/research/symbolic-regression/hr-tw-timeline.png
+      alt: Heart rate collection in the timeline of tweet posting.
+    - data-src: images/research/symbolic-regression/co-occ-graph-sample.jpg
+      alt: Co-occurrence graph-based representation sample.
+    - data-src: images/research/symbolic-regression/word-cloud.png
+      data-src-2x: images/research/symbolic-regression/word-cloud.png
+      alt: Word cloud on the selected features by genetic algorithm.
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
-    height: 400
+    height: 350
     initialHeight:
     maxHeight:
     interval:
@@ -238,18 +236,16 @@
   bullets: false
   captions: true
   images:
-    - src: images/another_channel/Gigi.JPG
-      alt: Gigi 🐤
-    - data-src: images/another_channel/Nezu-2.jpg
-      alt: Nezu 🐱
-    - data-src: images/another_channel/hand-writing-verse.JPG
-      data-src-2x: images/another_channel/hand-writing-verse.JPG
-      alt: Handwriting Bible verses 📝
-    - src: images/another_channel/hand-in-hand.JPG
-      alt: Handmaking Hand in Hand 
+    - src: images/research/voter-model/network-structure.png
+      alt: Network topology.
+    - data-src: iimages/research/voter-model/simulation-new.png
+      alt: Simulation process for addaptive voter model with weighted majority rule.
+    - data-src: images/research/voter-model/comparison-results.png
+      data-src-2x: images/research/voter-model/comparison-results.png
+      alt: Comparison between the simulated and real election results in New York and Kansas states.
       href: https://github.com/xin-wang-kr/xin-wang-kr.github.io
   settings:
-    height: 400
+    height: 350
     initialHeight:
     maxHeight:
     interval:
