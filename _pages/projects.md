@@ -13,9 +13,21 @@ image_sliders:
   - slider6
   - slider7
   - slider8
+  - slider10
+  - slider11
 ---
 
 Click the links for more details.
+# Symbolic Regression to Predict Human Heart Rates using Co-occurrence Graph-based Representation on Twitter Tweets
+Apply genetic algorithm for feature reduciton on graph-based representation.
+
+{% include slider.html selector="slider10" %}
+
+# Political Opinion Ecology Based on Social Network and Textual Sentiment of Twitter Tweets
+Apply adaptive voter model with weighted majority rule
+
+{% include slider.html selector="slider11" %}
+
 # [Anti-Asian Hate Indicator on YouTube Mainstream News Media Channels](projects/anti-asian-hate-youtube.md)
 Characterize anti-Asian hate overtime based on sentiment analysis and signal processing.
 
