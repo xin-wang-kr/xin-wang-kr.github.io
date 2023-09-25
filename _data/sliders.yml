@@ -238,8 +238,8 @@
   images:
     - src: images/research/voter-model/network-structure.png
       alt: Network topology.
-    - data-src: iimages/research/voter-model/simulation-new.png
-      alt: Simulation process for addaptive voter model with weighted majority rule.
+    - data-src: images/research/voter-model/cluster-plot.png
+      alt: Simulation result for addaptive voter model with weighted majority rule.
     - data-src: images/research/voter-model/comparison-results.png
       data-src-2x: images/research/voter-model/comparison-results.png
       alt: Comparison between the simulated and real election results in New York and Kansas states.
