@@ -28,6 +28,7 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
+* Oct 2023, served as __Paper Reviewer__ for __the ACM (Association of Computing Machinery) CHI conference on Human Factors in Computing Systems__.
 * Jun 2023 - Aug 2023, did __Summer Research Intern__ at [Research Foundation at SUNY](https://www.rfsuny.org/). 
 * Jun 2023, my short paper was accepted by __Health Resilience Workshop__ under the __ACM SIGCHI on Designing Interactive Systems 2023 Conference__. [[PDF]](https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/0/165972/files/2023/07/Xin-Wang-Improving-Patient-Experience-Feedback-Collection-for-Healthcare-Providers-through-Human-centered-Chatbot-Application.pdf)
 * Feb 2023, my poster proposal was accepted by __Human-computer Interaction (HCI) International 2023__.
