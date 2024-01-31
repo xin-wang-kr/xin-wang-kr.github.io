@@ -10,7 +10,7 @@ image_sliders:
   - slider1
 ---
 
-Welcome! I am currently pursuing Ph.D. study. Before that, I was a COVID-19 research team leader in the [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Besides, I was a machine learning engineer at Tianjin Value Fair Technology Inc in China for NLP-based financial application development for public company annual reports in 2017. I have earned my master's degree in Data Science in 2018 and a bachelor's degree in Industrial Engineering at Aeronautical Engineering direction in 2014. I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), having served [Goolge AI Impact Challenge](https://impactchallenge.withgoogle.com/techforsocialgood) in 2019 and [data.org Growth and Recovery Challenge for COVID-19](https://data.org/initiatives/challenge/) in 2020.
+Welcome! I am currently pursuing Ph.D. study, focusing on representation learning, computational social science, and conversational AI. Before that, I was a COVID-19 research team leader in the [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Besides, I was a machine learning engineer at Tianjin Value Fair Technology Inc in China for NLP-based financial application development for public company annual reports in 2017. I have earned my master's degree in Data Science in 2018 and a bachelor's degree in Industrial Engineering at Aeronautical Engineering direction in 2014. I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), having served [Goolge AI Impact Challenge](https://impactchallenge.withgoogle.com/techforsocialgood) in 2019 and [data.org Growth and Recovery Challenge for COVID-19](https://data.org/initiatives/challenge/) in 2020.
 In 2016, I achieved a certification from Google Developer StudyJams on Android mobile app in Java.
 
 My research works have been [published](publications) in
@@ -28,8 +28,8 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
-* Dec 2023, my first-author case study paper was accepted by __the ACM CHI conference 2024__. (Acceptance rate: 24%)
-* Oct 2023, served as __Paper Reviewer__ for __the ACM CHI conference 2024__.
+* Dec 2023, my first-author case study paper was accepted by __the ACM CHI conference 2024__. (Acceptance rate: 24%) [[link](https://xin-wang-kr.github.io/px-collection-AI-chatbot/)]
+* Oct 2023, served as __Paper Reviewer__ for __the ACM CHI conference 2024__. 
 * Jun 2023 - Aug 2023, did __Summer Research Intern__ at [Research Foundation at SUNY](https://www.rfsuny.org/). 
 * Jun 2023, my short paper was accepted by __Health Resilience Workshop__ under the __ACM SIGCHI on Designing Interactive Systems 2023 Conference__. [[PDF]](https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/0/165972/files/2023/07/Xin-Wang-Improving-Patient-Experience-Feedback-Collection-for-Healthcare-Providers-through-Human-centered-Chatbot-Application.pdf)
 * Feb 2023, my poster proposal was accepted by __Human-computer Interaction (HCI) International 2023__.
