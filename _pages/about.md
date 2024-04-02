@@ -27,7 +27,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 
 # News
 * Mar 2024, got acceptance offer for __Oxford Machine Learning Summer School__. [[link](https://www.oxfordml.school/)] 
-* Feb 2024, our research (accepted by __CHI__) on patient experience AI chatbot was reported by __BingUNews__. [[link](https://www.binghamton.edu/news/story/4765/watson-graduate-students-implement-ai-in-healthcare-practice-as-final-project)]
+* Feb 2024, our research (accepted by __CHI'24__) on patient experience AI chatbot was reported by __BingUNews__. [[link](https://www.binghamton.edu/news/story/4765/watson-graduate-students-implement-ai-in-healthcare-practice-as-final-project)]
 * Dec 2023, my first-author case study paper was accepted by __the ACM CHI conference 2024__. (Acceptance rate: 24%) [[link](https://xin-wang-kr.github.io/px-collection-AI-chatbot/)]
 * Oct 2023, served as __Paper Reviewer__ for __the ACM CHI conference 2024__. 
 * Jun 2023 - Aug 2023, did __Summer Research Intern__ at [Research Foundation at SUNY](https://www.rfsuny.org/). 
