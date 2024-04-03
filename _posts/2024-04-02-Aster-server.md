@@ -1,7 +1,7 @@
 ---
 title: Use Python-based PyCX simulator on MacOS M1
 date: 2024-04-02
-permalink: /posts/2024/04-Aster
+permalink: /posts/2024/04-Aster-server
 excerpt_separator: <!--more-->
 toc: true
 tags:
