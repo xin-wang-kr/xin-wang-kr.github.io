@@ -1,5 +1,5 @@
 ---
-title: Use Python-based PyCX simulator on MacOS M1
+title: How to Connect Remote Server in Visual Studio Code.
 date: 2024-04-02
 permalink: /posts/2024/04-Aster-server
 excerpt_separator: <!--more-->
