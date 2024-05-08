@@ -26,7 +26,9 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
+* May 2024, awarded __Jim Geer Summer Scholarship__ ($2,400).
 * Apr 2024, served as __Reviewer__ for __the ACM CUI conference 2024__.
+* Apr 2024, awarded __Watson Professional Development Fund__ for conference attendance ($500). 
 * Mar 2024, got acceptance offer for __Oxford Machine Learning Summer School__. [[link](https://www.oxfordml.school/)] 
 * Feb 2024, our research (accepted by __CHI'24__) on patient experience AI chatbot was reported by __BingUNews__. [[link](https://www.binghamton.edu/news/story/4765/watson-graduate-students-implement-ai-in-healthcare-practice-as-final-project)]
 * Dec 2023, my first-author case study paper was accepted by __the ACM CHI conference 2024__. (Acceptance rate: 24%) [[link](https://xin-wang-kr.github.io/px-collection-AI-chatbot/)]
