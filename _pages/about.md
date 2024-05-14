@@ -26,7 +26,7 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
-* May 2024, awarded __Jim Geer Summer Scholarship__ ($2,400). 🎉 This is a big support for my summer research project on trust&bias-based conversational agent.
+* May 2024, awarded __Jim Geer Summer Scholarship__ ($2,400). 🎉 This is a big funding support for my summer research project on trust&bias-based conversational agent.
 * Apr 2024, served as __Reviewer__ for __the ACM CUI conference 2024__.
 * Apr 2024, awarded __Watson Professional Development Fund__ for conference attendance ($500). 
 * Mar 2024, got acceptance offer for __Oxford Machine Learning Summer School__. [[link](https://www.oxfordml.school/)] 
