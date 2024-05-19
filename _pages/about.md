@@ -26,8 +26,8 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
-* May 2024, extended version of user trust modeling work was accepted by CUI conference 2024 as a poster paper.
-* May 2024, user trust modeling work was accepted by CUI workshop@CHI'24 [[link](https://cui.acm.org/workshops/CHI2024/wp-content/uploads/2024/04/User-Trust-Modeling-in-Conversational-User-Interface-Based-onWord-Embedding-Bias.pdf)].
+* May 2024, extended version of user trust modeling work was accepted by __CUI conference 2024__ as a poster paper.
+* May 2024, user trust modeling work was accepted by __CUI workshop@CHI'24__ [[link](https://cui.acm.org/workshops/CHI2024/wp-content/uploads/2024/04/User-Trust-Modeling-in-Conversational-User-Interface-Based-onWord-Embedding-Bias.pdf)].
 * May 2024, awarded __Jim Geer Summer Scholarship__ ($2,400). 🎉 This is a big funding support for my summer research project on trust&bias-based conversational agent.
 * Apr 2024, served as __Reviewer__ for __the ACM CUI conference 2024__.
 * Apr 2024, awarded __Watson Professional Development Fund__ for conference attendance ($500). 
