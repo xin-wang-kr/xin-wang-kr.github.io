@@ -26,6 +26,7 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
+* Jun 2024, served as __Reviwer__ for __CSCW conference 2024__.
 * May 2024, my first-authored research on AI chatbot for patient feedback improvement was selected and featured on __ACM Research Showcase__. Thank you so much for the affirmation. 🎉 [[link](https://www.growkudos.com/publications/10.1145%252F3613905.3637149/reader)]
 * May 2024, extended version of user trust modeling work was accepted by __CUI conference 2024__ as a poster paper.
 * May 2024, user trust modeling work was accepted by __CUI workshop@CHI'24__ [[link](https://cui.acm.org/workshops/CHI2024/wp-content/uploads/2024/04/User-Trust-Modeling-in-Conversational-User-Interface-Based-onWord-Embedding-Bias.pdf)].
