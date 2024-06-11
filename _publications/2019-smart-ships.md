@@ -13,7 +13,6 @@ is able to identify real bay and sea satellite images as well. The results make 
 of smart ship and carve out the possibilities for fully automated operation of ship and ports."
 date: 2019-11-01
 venue: 'International Journal of Decision Science'
-paperurl: '/files/pdf/research/Ship.pdf'
 github: 'https://github.com/xin-wang-kr/smart-ship'
 citation: 'Xiao H., <b>Wang X.</b>, & Zhao, P. (2019). &quot;Satellite Image Recognition for Smart Ships Using A Convolutional Neural Networks Algorithm.&quot; <i>International Journal of Decision Science</i> 10(2): 85–91.'
 ---
