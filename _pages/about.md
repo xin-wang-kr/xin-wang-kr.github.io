@@ -36,7 +36,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 * May 2024, awarded __Jim Geer Summer Scholarship__ ($2,400). 🎉 This is a big funding support for my summer research project on trust&bias-based conversational agent.
 * Apr 2024, served as __Reviewer__ for __the ACM CUI conference 2024__.
 * Apr 2024, awarded __Watson Professional Development Fund__ for conference attendance ($500). 
-* Mar 2024, got acceptance offer for __Oxford Machine Learning Summer School__. [[link](https://www.oxfordml.school/)] 
+* Mar 2024, got acceptance offer for __Oxford Machine Learning Summer School__. Main topic: Generative AI & Representation Learning. [[link](https://www.oxfordml.school/)] 
 * Feb 2024, our research (accepted by __CHI'24__) on patient experience AI chatbot was featured by __BingUNews__. [[link](https://www.binghamton.edu/news/story/4765/watson-graduate-students-implement-ai-in-healthcare-practice-as-final-project)]
 * Dec 2023, my first-author case study paper was accepted by __the ACM CHI conference 2024__. (Acceptance rate: 24%) [[link](https://xin-wang-kr.github.io/px-collection-AI-chatbot/)]
 * Oct 2023, served as __Reviewer__ for __the ACM CHI conference 2024__. 
