@@ -3,6 +3,14 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+## Guest Lecturer
+*Department of Systems Science and Industrial Engineering, SUNY at Binghamton*
+- Applied Soft Computing (Spring 2024)
+    - Lecture Topic: Applying embedding approaches to chatbot application
+    - Lecture Section 1: Word2vec-based question and answer chatbot application. [[Github](https://github.com/xin-wang-kr/word2vec-chatbot-lecture)]
+    - Lecture Section 2: Text-image search through chatbot application. [[Github](https://github.com/xin-wang-kr/text-image-search-lecture)]
+    - [[Lecture Slides](/files/pdf/teaching/Guest-Lecture-Slides.pdf)]
+
 ## Instructor
 *BIG DATA & AI Lab, IntelligentRabbit LLC.* 
 - Mobile App Development: Python Kivy (Summer 2020)
