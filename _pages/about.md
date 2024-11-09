@@ -10,8 +10,14 @@ image_sliders:
   - slider1
 ---
 
-Welcome! I am currently pursuing Ph.D. study, focusing on representation learning, algorithm fairness, computational social science, and conversational AI. Before that, I was a COVID-19 research team leader in the [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Besides, I was a machine learning engineer at Tianjin Value Fair Technology Inc in China for NLP-based financial application development for public company annual reports in 2017. I have earned my master's degree in Data Science in 2018 and a bachelor's degree in Industrial Engineering at Aeronautical Engineering direction in 2014. I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), having served [Goolge AI Impact Challenge](https://impactchallenge.withgoogle.com/techforsocialgood) in 2019 and [data.org Growth and Recovery Challenge for COVID-19](https://data.org/initiatives/challenge/) in 2020.
+Welcome! I am currently pursuing Ph.D. study, focusing on human-centered AI, representation learning, algorithm fairness, natural language processing, and conversational AI. I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/). I am conducting two research topics:
+* __User Trust Modeling in Conversational Agent.__ (Under the supervision with [Dr. Sadamori Kojaku](https://skojaku.github.io/) and collaborating with [Dr. Min Sun Kim](https://sci.manoa.hawaii.edu/min-sun-kim/).
+* __Community Energy Compass - Data-driven Visualization Toolkit Development.__ (Under the supervision with [Dr. Neha Patankar](https://patankarneha.wixsite.com/home) and collaborating with [Zero Lab](https://zero.lab.princeton.edu/) held by [Dr. Jesse Jenkins](https://environmenthalfcentury.princeton.edu/experts/jesse-jenkins)
+
+<!---
+Before that, I was a COVID-19 research team leader in the [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Besides, I was a machine learning engineer at Tianjin Value Fair Technology Inc in China for NLP-based financial application development for public company annual reports in 2017. I have earned my master's degree in Data Science in 2018 and a bachelor's degree in Industrial Engineering at Aeronautical Engineering direction in 2014. I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), having served [Goolge AI Impact Challenge](https://impactchallenge.withgoogle.com/techforsocialgood) in 2019 and [data.org Growth and Recovery Challenge for COVID-19](https://data.org/initiatives/challenge/) in 2020.
 In 2016, I achieved a certification from Google Developer StudyJams on Android mobile app in Java.
+-->
 
 <span style="color:blue">Now I am actively seeking Research Internship. Please feel free to contact me if you think I match with any position that you provide or want to recommend to me. Email: xinwang35314@gmail.com</span>
 
