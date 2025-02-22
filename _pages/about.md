@@ -34,7 +34,7 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
-* Feb 2025, my first-authored paper on VizTrust was accepted by __the ACM CHI conference 2025__ as a late breaking work. 🎉(Acceptance rate: 32.83%)
+* Feb 2025, my first-authored paper on VizTrust was accepted by __the ACM CHI conference 2025__ as a late breaking work. (Acceptance rate: 32.83%) This is big encouragement for my Ph.D. dissertation research. 🎉
 * Feb 2025, gained __Ninja tier certificate__ in [LLM Agents Hackathon](https://llmagents-learning.org/f24) held by [The Berkeley Center for Responsible, Decentralized Intelligence (RDI)](https://rdi.berkeley.edu/).
 * Oct 2024, served as __Reviewer__ for __JAMIA Open__.
 * Oct 2024, served as __Reviewer__ for __the ACM CHI conference 2025__.
