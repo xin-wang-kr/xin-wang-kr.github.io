@@ -24,8 +24,8 @@ In 2016, I achieved a certification from Google Developer StudyJams on Android m
 My research works have been [published](publications) in
 *International Journal of Society Systems Science*, *International Journal of Data Science* (**Elsevier index**),
 *International Journal of Operations Research and Information Systems*,
-*International Journal of Decision Science*,
-*International Journal of Data Analysis and Information Systems* and *IGI Global*. 
+*International Journal of Decision Science*, and
+*International Journal of Data Analysis and Information Systems*. 
 I had done [research](research) on fake news and misinformation detection, anti-Asian hater profile and geographical 
 analysis, anti-Asian hate indicator establishment, smart ship, the relationship between Bitcoin and stock market,
 AI music generation, image diagnosis on skin cancer, region-based bird call recognition, face mask detection, and etc. 
