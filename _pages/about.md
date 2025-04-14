@@ -64,6 +64,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 * Oct 2020, attended __2020 IDEAS Global AI Conference__, organized by International Data Engineering and Science Association.
 * Jul 2020, attended __ALife 2020__, organized by Internaltional Society for Artificial Life.
 * Jun 2020, awarded __ALife Student Scholarship__ by ALife 2020 organizing committee.
+  
 <!---
 * Jul 2014, awarded __Third Prize of 2014 Cross-Strait Contest of Outstanding Bachelor’s Degree Thesis (10/15, among China Mainland, Hong Kong, Macao, and Taiwan)__ by Chinese Institute of Industrial Engineering.
 -->
