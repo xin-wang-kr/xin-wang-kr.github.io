@@ -35,7 +35,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 
 # News
 * Apr 2025, served as __Session Chair__ for __Conversations with AI paper session__ at __the ACM CHI conference 2025__. [[link](https://programs.sigchi.org/chi/2025/program/session/195020)]
-* Feb 2025, my first-authored paper on __VizTrust__ was accepted by __the ACM CHI conference 2025__ as a late breaking work. (Acceptance rate: 32.83%) This is big encouragement for my Ph.D. dissertation research. 🎉 [[link](https://xin-wang-kr.github.io/VizTrust-CHI25/)]
+* Feb 2025, my first-authored paper on __VizTrust__ was accepted by __the ACM CHI conference 2025__ as a late breaking work. (Acceptance rate: 32.83%) 🎉 [[link](https://xin-wang-kr.github.io/VizTrust-CHI25/)]
 * Feb 2025, gained __Ninja tier certificate__ in [LLM Agents Hackathon](https://llmagents-learning.org/f24) held by [The Berkeley Center for Responsible, Decentralized Intelligence (RDI)](https://rdi.berkeley.edu/).
 * Oct 2024, served as __Reviewer__ for __JAMIA Open__.
 * Oct 2024, served as __Reviewer__ for __the ACM CHI conference 2025__.
