@@ -34,7 +34,7 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
-* Apr 2025, served as __Session Chair__ for __Conversations with AI paper session__ at __the ACM CHI conference 2025__. [[link](https://programs.sigchi.org/chi/2025/program/session/195020)]
+* Apr 2025, serving as __Session Chair__ for __Conversations with AI paper session__ at __the ACM CHI conference 2025__. [[link](https://programs.sigchi.org/chi/2025/program/session/195020)]
 * Feb 2025, my first-authored paper on __VizTrust__ was accepted by __the ACM CHI conference 2025__ as a late breaking work. (Acceptance rate: 32.83%) This is a big encouragement after uneasy process. 🎉 [[link](https://xin-wang-kr.github.io/VizTrust-CHI25/)]
 * Feb 2025, gained __Ninja tier certificate__ in [LLM Agents Hackathon](https://llmagents-learning.org/f24) held by [The Berkeley Center for Responsible, Decentralized Intelligence (RDI)](https://rdi.berkeley.edu/).
 * Oct 2024, served as __Reviewer__ for __JAMIA Open__.
