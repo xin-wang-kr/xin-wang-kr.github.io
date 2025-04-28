@@ -10,7 +10,7 @@ image_sliders:
   - slider1
 ---
 
-Welcome! I am currently pursuing Ph.D. study, focusing on human-centered AI, representation learning, algorithm fairness, natural language processing, and conversational AI. I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/) at Binghamton University. I am conducting two research topics:
+Welcome! I am a third-year Ph.D. in Binghamton University. My research focuses on human-centered AI, representation learning, algorithm fairness, natural language processing, and conversational AI. I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/) at Binghamton University. I am conducting two research topics:
 * __User Trust Modeling in Conversational Agent.__ (Under the supervision with [Dr. Sadamori Kojaku](https://skojaku.github.io/) at Binghamton University and collaborating with [Dr. Min Sun Kim](https://sci.manoa.hawaii.edu/min-sun-kim/) at University of Hawaii at Manoa.)
 * __Community Energy Compass - Data-driven Visualization Toolkit Development.__ (Under the supervision with [Dr. Neha Patankar](https://patankarneha.wixsite.com/home) and collaborating with [Zero Lab](https://zero.lab.princeton.edu/) held by [Dr. Jesse Jenkins](https://environmenthalfcentury.princeton.edu/experts/jesse-jenkins) at Princeton University.)
 
