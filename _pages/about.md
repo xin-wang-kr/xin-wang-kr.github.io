@@ -34,8 +34,8 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
-* May 2025, one short paper done by undergraduate research under my supervision was accepted by [SMM4H-HeaRD workshop](https://healthlanguageprocessing.org/smm4h-2025/) at [ICWSM 2025 conference](https://www.icwsm.org/2025/index.html). Congratuatioins to __Artin__!
-* May 2025, our paper on __link prediction__ was accepted by __ICML conference 2025__, after a tough long run. (Acceptance rate:  26.9%) 🎉 [[link](https://arxiv.org/abs/2405.14985)]
+* May 2025, one short paper done by undergraduate research under my supervision was accepted by [SMM4H-HeaRD workshop](https://healthlanguageprocessing.org/smm4h-2025/) at [ICWSM 2025 conference](https://www.icwsm.org/2025/index.html). Congratulatioin to __Artin__!
+* May 2025, our paper on __link prediction__ was accepted by __ICML conference 2025__, after a tough long run. (Acceptance rate:  26.9%) Congratulation to __Sadamori__! 🎉 [[link](https://arxiv.org/abs/2405.14985)]
 * Apr 2025, serving as __Session Chair__ for __Conversations with AI paper session__ at __the ACM CHI conference 2025__. [[link](https://programs.sigchi.org/chi/2025/program/session/195020)]
 * Feb 2025, my first-authored paper on __VizTrust__ was accepted by __the ACM CHI conference 2025__ as a late breaking work. (Acceptance rate: 32.83%) This is a big encouragement after uneasy process. 🎉 [[link](https://xin-wang-kr.github.io/VizTrust-CHI25/)]
 * Feb 2025, gained __Ninja tier certificate__ in [LLM Agents Hackathon](https://llmagents-learning.org/f24) held by [The Berkeley Center for Responsible, Decentralized Intelligence (RDI)](https://rdi.berkeley.edu/).
