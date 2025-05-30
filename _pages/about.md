@@ -38,7 +38,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 # News
 * May 2025, __TechXplore__, technology media, reposted __VizTrust__. [[link](https://techxplore.com/news/2025-05-chatbots-tool-easier-gauge.html)]
 * May 2025, __VizTrust__ was featured on __BingUNews__. [[link]](https://www.binghamton.edu/news/story/5570/how-much-do-we-trust-chatbots-new-tool-from-binghamton-university-makes-it-easier-to-gauge)
-* May 2025, __VizTrust__ successfully landed __Multidisciplinary Research Grant ($3,012.58)__ from the Center for
+* May 2025, __VizTrust__ successfully landed __Multidisciplinary Summer Research Grant ($3,012.58)__ from the Center for
 Cognitive Applications, BU. This is my first time to submit research grant application. 🎉
 * May 2025, renewed __Jim Geer Summer Scholarship ($2,500)__. 🎉
 * May 2025, one short paper done by undergraduate researcher under my supervision was accepted by [SMM4H-HeaRD workshop](https://healthlanguageprocessing.org/smm4h-2025/) at [ICWSM 2025 conference](https://www.icwsm.org/2025/index.html). Congratulatioin to __Artin__!
