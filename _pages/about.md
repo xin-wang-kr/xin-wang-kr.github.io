@@ -36,6 +36,7 @@ I have [taught](teaching) courses in Mobile App Development and Python Programmi
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
 
 # News
+* Jun 2025, elected as __Student Representative (5 year role)__ for steering committe of [the ACM Conversational User Interface Conference](https://cui.acm.org/2025/).
 * May 2025, __TechXplore__, technology media, reposted __VizTrust__. [[link](https://techxplore.com/news/2025-05-chatbots-tool-easier-gauge.html)]
 * May 2025, __VizTrust__ was featured on __BingUNews__. [[link]](https://www.binghamton.edu/news/story/5570/how-much-do-we-trust-chatbots-new-tool-from-binghamton-university-makes-it-easier-to-gauge)
 * May 2025, __VizTrust__ successfully landed __Multidisciplinary Summer Research Grant ($3,012.58)__ from the Center for
