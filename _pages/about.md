@@ -23,6 +23,7 @@ In 2016, I achieved a certification from Google Developer StudyJams on Android m
 
 <span style="color:blue">Now I am actively seeking Research Internship. Please feel free to contact me if you think I match with any position that you provide or want to recommend to me. Email: xinwang35314@gmail.com</span>
 
+<!---
 My research works have been [published](publications) in
 *International Journal of Society Systems Science*, *International Journal of Data Science* (**Elsevier index**),
 *International Journal of Operations Research and Information Systems*,
@@ -34,6 +35,7 @@ AI music generation, image diagnosis on skin cancer, region-based bird call reco
 
 I have [taught](teaching) courses in Mobile App Development and Python Programming in AI at BIG DATA & AI Lab at IntelligentRabbit LLC.
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
+-->
 
 # News
 * Aug 2025, invited to give a __guest talk__ in [HI3 Tech Lab](https://sites.google.com/view/wudezhi/research?authuser=0) at __University of Sourth Carolina__. Thanks Dr. Dezhi Wu.
