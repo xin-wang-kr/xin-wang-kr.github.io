@@ -10,7 +10,7 @@ image_sliders:
   - slider1
 ---
 
-Welcome! I am a third-year Ph.D. in Binghamton University. My research focuses on human-centered AI, representation learning, algorithm fairness, natural language processing, and conversational AI. I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/) at Binghamton University. 
+Welcome! I am a third-year Ph.D. in Binghamton University. My research focuses on human-centered AI, representation learning, machine learning, computational social science, and conversational AI. I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/) at Binghamton University. 
 
 I am conducting two research topics:
 * __User Trust Modeling in Conversational Agent.__ (Under the supervision with [Dr. Sadamori Kojaku](https://skojaku.github.io/) at Binghamton University and collaborating with [Dr. Min Sun Kim](https://sci.manoa.hawaii.edu/min-sun-kim/) at University of Hawaii at Manoa.)
