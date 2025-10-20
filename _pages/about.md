@@ -87,6 +87,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 
 </details>
 
+
 # Project showcase
 <div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
   <div class="project-image" style="flex:0 0 320px;max-width:320px;">
