@@ -92,7 +92,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 <div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
   <div class="project-image" style="flex:0 0 320px;max-width:320px;">
     <!-- Replace the src with your project image path, e.g., /assets/images/your-project.png -->
-    <img src="/images/research/VizTrustCHI25/workflow-2.png" alt="VizTrust screenshot" style="width:100%;height:auto;border-radius:6px;border:1px solid #eee;">
+    <img src="/images/project_showcase/workflow-2.png" alt="VizTrust screenshot" style="width:100%;height:auto;border-radius:6px;border:1px solid #eee;">
   </div>
   <div class="project-info" style="flex:1;min-width:220px;">
     <h3><a href="https://xin-wang-kr.github.io/VizTrust-CHI25/">VizTrust: A Visual Analytics Tool for Capturing User Trust Dynamics in Human-AI Communication</a></h3>
@@ -102,3 +102,15 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
   </div>
 </div>
 
+<div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
+  <div class="project-image" style="flex:0 0 320px;max-width:320px;">
+    <!-- Replace the src with your project image path, e.g., /assets/images/your-project.png -->
+    <img src="/images/project_showcase/word2vec-user-trust.png" alt="VizTrust screenshot" style="width:100%;height:auto;border-radius:6px;border:1px solid #eee;">
+  </div>
+  <div class="project-info" style="flex:1;min-width:220px;">
+    <h3><a href="https://cui.acm.org/workshops/CHI2024/wp-content/uploads/2024/04/User-Trust-Modeling-in-Conversational-User-Interface-Based-onWord-Embedding-Bias.pdf">User Trust Modeling in Conversational User Interface Based on Word Embedding Bias</a></h3>
+    <p><strong>Authors:</strong> <b>Xin Wang</b>, Sadamori Kojaku</p>
+    <p><strong>Venue:</strong> CUI workshop at ACM CHI 2024</p>
+    <p><strong>Short description:</strong> A user trust modeling framework based on vector space model established by user utterances.</p>
+  </div>
+</div>
