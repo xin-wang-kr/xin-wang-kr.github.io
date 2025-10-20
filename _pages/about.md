@@ -80,7 +80,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 <!---
 * Jul 2014, awarded __Third Prize of 2014 Cross-Strait Contest of Outstanding Bachelor’s Degree Thesis (10/15, among China Mainland, Hong Kong, Macao, and Taiwan)__ by Chinese Institute of Industrial Engineering.
 -->
-<!---
+
 # Project showcase
 <div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
   <div class="project-image" style="flex:0 0 320px;max-width:320px;">
@@ -88,10 +88,10 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
     <img src="/assets/images/viztrust.png" alt="VizTrust screenshot" style="width:100%;height:auto;border-radius:6px;border:1px solid #eee;">
   </div>
   <div class="project-info" style="flex:1;min-width:220px;">
-    <h3><a href="https://xin-wang-kr.github.io/px-collection-AI-chatbot/">VizTrust: Visualizing Chatbot Trust</a></h3>
-    <p><strong>Authors:</strong> Xin Wang, Sadamori Kojaku, Neha Patankar</p>
-    <p><strong>Venue:</strong> ACM CHI 2025 (Late-breaking work)</p>
-    <p>Short description: A data-driven visualization toolkit to help researchers and practitioners measure and explore user trust in conversational agents. <em>Replace this description and image with your preferred project details.</em></p>
+    <h3><a href="https://xin-wang-kr.github.io/VizTrust-CHI25/">VizTrust: A Visual Analytics Tool for Capturing User Trust Dynamics in Human-AI Communication</a></h3>
+    <p><strong>Authors:</strong> <b>Xin Wang</b>, Stephanie Tulk Jesso, Sadamori Kojaku, David M. Neyens, Min Sun Kim</p>
+    <p><strong>Venue:</strong> ACM CHI 2025</p>
+    <p><strong>Short description:</strong> A data-driven visualization toolkit to help researchers and practitioners measure and explore user trust in conversational agents.</p>
   </div>
 </div>
--->
+
