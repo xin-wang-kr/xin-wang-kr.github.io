@@ -92,7 +92,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 <div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
   <div class="project-image" style="flex:0 0 320px;max-width:320px;">
     <!-- Replace the src with your project image path, e.g., /assets/images/your-project.png -->
-    <img src="/images/project_showcase/workflow-2.png" alt="VizTrust screenshot" style="width:100%;height:auto;border-radius:6px;border:1px solid #eee;">
+    <img src="/images/project_showcase/workflow-2.png" alt="VizTrust screenshot" style="width:auto;height:auto;border-radius:6px;border:1px solid #eee;">
   </div>
   <div class="project-info" style="flex:1;min-width:220px;">
     <h3><a href="https://xin-wang-kr.github.io/VizTrust-CHI25/">VizTrust: A Visual Analytics Tool for Capturing User Trust Dynamics in Human-AI Communication</a></h3>
