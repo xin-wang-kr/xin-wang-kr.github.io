@@ -47,7 +47,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 * May 2025, one short paper done by undergraduate researcher under my supervision was accepted by [SMM4H-HeaRD workshop](https://healthlanguageprocessing.org/smm4h-2025/) at [ICWSM 2025 conference](https://www.icwsm.org/2025/index.html). Congratulatioin to __Artin__! [[link](https://at2a.github.io/BingAster-ICWSM25/)]
 
 <details class="news-fold" markdown="1">
-<summary>Show all news (older items)</summary>
+<summary>Show all news</summary>
 
 * May 2025, our paper on __link prediction__ was accepted by __ICML conference 2025__, after a tough long run. (Acceptance rate:  26.9%) Congratulation to __Sadamori__! 🎉 [[link](https://arxiv.org/abs/2405.14985)]
 * Apr 2025, served as __Session Chair__ for __Conversations with AI paper session__ at __the ACM CHI conference 2025__. [[link](https://programs.sigchi.org/chi/2025/program/session/195020)]
