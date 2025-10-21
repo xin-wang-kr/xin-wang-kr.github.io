@@ -88,7 +88,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 </details>
 
 
-# Research showcase
+# Research showcase ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=HWiicI8AAAAJ))
 <div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
   <div class="project-image" style="flex:0 0 320px;max-width:320px;">
     <!-- Replace the src with your project image path, e.g., /assets/images/your-project.png -->
