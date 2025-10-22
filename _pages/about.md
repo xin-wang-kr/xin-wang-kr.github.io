@@ -124,7 +124,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
     <h3><a href="https://xin-wang-kr.github.io/px-collection-AI-chatbot/">Co-Designing an AI Chatbot to Improve Patient Experience in the Hospital: A human-centered design case study of a collaboration between a hospital, a university, and ChatGPT</a></h3>
     <p><strong>Authors:</strong> <b>Xin Wang</b>, Samer M Abubaker, Grace T Babalola, Stephanie Tulk Jesso</p>
     <p><strong>Venue:</strong> ACM CHI 2024</p>
-    <p><strong>Short description:</strong> A AI chatbot is co-designed for real-time hospital setting to improve patient experience.</p>
+    <p><strong>Short description:</strong> A AI chatbot is co-designed for real-time hospital setting to improve patient experience. This is my human factor course project that I led.</p>
   </div>
 </div>
 
