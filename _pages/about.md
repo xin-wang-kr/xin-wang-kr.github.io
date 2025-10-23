@@ -95,7 +95,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
     <img src="/images/project_showcase/BI-framework.png" alt="Tracing Trust" style="width:auto;height:auto;border-radius:6px;border:1px solid #eee;">
   </div>
   <div class="project-info" style="flex:1;min-width:220px;">
-    <h3>racing Trust: A Context-Engineered Bayesian Inference Framework for Simulating Trust Dynamics in Human–AI Conversations</h3>
+    <h3>Tracing Trust: A Context-Engineered Bayesian Inference Framework for Simulating Trust Dynamics in Human–AI Conversations</h3>
     <p><strong>Authors:</strong> <b>Xin Wang</b>, Sadamori Kojaku, Shuai Ma</p>
     <p><strong>Venue:</strong> Under review.</p>
     
