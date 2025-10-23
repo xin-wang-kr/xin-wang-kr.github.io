@@ -111,7 +111,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
     <h3><a href="https://xin-wang-kr.github.io/VizTrust-CHI25/">VizTrust: A Visual Analytics Tool for Capturing User Trust Dynamics in Human-AI Communication</a></h3>
     <p><strong>Authors:</strong> <b>Xin Wang</b>, Stephanie Tulk Jesso, Sadamori Kojaku, David M. Neyens, Min Sun Kim</p>
     <p><strong>Venue:</strong> ACM CHI 2025</p>
-    <p><strong>Short description:</strong> A data-driven visualization toolkit to help researchers and practitioners measure and explore user trust in conversational agents.</p>
+    <p><strong>Short description:</strong> A real-time visual analytics tool that leverages a multi-agent collaboration system to capture and analyze user trust dynamics in human-agent communication.</p>
   </div>
 </div>
 
