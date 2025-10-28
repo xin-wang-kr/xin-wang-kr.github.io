@@ -43,7 +43,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 * May 2025, __VizTrust__ was featured on [__BingUNews__](https://www.binghamton.edu/news/story/5570/how-much-do-we-trust-chatbots-new-tool-from-binghamton-university-makes-it-easier-to-gauge), [__TechXplore__](https://techxplore.com/news/2025-05-chatbots-tool-easier-gauge.html), and [__The Science Archive__](https://thesciencearchive.org/2503-07279v1/)
 * May 2025, __VizTrust__ successfully landed __Multidisciplinary Summer Research Grant ($3,012.58)__ from the Center for
 Cognitive Applications, BU. This is my first time to submit research grant application. 🎉
-* May 2025, renewed __Jim Geer Summer Scholarship ($2,500)__. 🎉
+* May 2025, renewed __Professor Jim Geer Summer Scholarship ($2,500)__. 🎉
 * May 2025, one short paper done by undergraduate researcher under my supervision was accepted by [SMM4H-HeaRD workshop](https://healthlanguageprocessing.org/smm4h-2025/) at [ICWSM 2025 conference](https://www.icwsm.org/2025/index.html). Congratulatioin to __Artin__! [[link](https://at2a.github.io/BingAster-ICWSM25/)]
 * May 2025, our paper on __link prediction__ was accepted by __ICML conference 2025__, after a tough long run. (Acceptance rate:  26.9%) Congratulation to __Sadamori__! 🎉 [[link](https://arxiv.org/abs/2405.14985)]
 
@@ -60,7 +60,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 * May 2024, my first-authored research on AI chatbot for patient feedback improvement was selected and featured on __ACM Research Showcase__. Thank you so much for the affirmation. 🎉 [[link](https://www.growkudos.com/publications/10.1145%252F3613905.3637149/reader)]
 * May 2024, extended version of user trust modeling work was accepted by __CUI conference 2024__ as a poster paper.
 * May 2024, user trust modeling work was accepted by __CUI workshop@CHI'24__ [[link](https://cui.acm.org/workshops/CHI2024/wp-content/uploads/2024/04/User-Trust-Modeling-in-Conversational-User-Interface-Based-onWord-Embedding-Bias.pdf)].
-* May 2024, awarded __Jim Geer Summer Scholarship ($2,400)__. 🎉 This is a big funding support for my summer research project on trust&bias-based conversational agent.
+* May 2024, awarded __Professor Jim Geer Summer Scholarship ($2,400)__. 🎉 This is a big funding support for my summer research project on trust&bias-based conversational agent.
 * Apr 2024, served as __Reviewer__ for __the ACM CUI conference 2024__.
 * Apr 2024, awarded __Watson Professional Development Fund__ for conference attendance ($500). 
 * Mar 2024, got acceptance offer for __Oxford Machine Learning Summer School__. Main topic: __Generative AI & Representation Learning__. [[link](https://www.oxfordml.school/)] 
