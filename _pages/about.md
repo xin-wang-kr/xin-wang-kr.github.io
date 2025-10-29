@@ -38,7 +38,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 -->
 
 # News
-* Oct 2025, __VizTrust__ was featured on [__Communications of the ACM__](https://cacm.acm.org/news/ais-capture-trust-cues/). It's truly a honor. 🎉
+* Oct 2025, __VizTrust__ was featured on [__Communications of the ACM__](https://cacm.acm.org/news/ais-capture-trust-cues/). It's truly an honor. 🎉
 * Aug 2025, invited to give a __guest talk__ in [HI3 Tech Lab](https://sites.google.com/view/wudezhi/research?authuser=0) at __University of Sourth Carolina__. Thanks Dr. Dezhi Wu.
 * Jun 2025, elected as __Student Representative (5-year role)__ for steering committe of [the ACM Conversational User Interface Conference](https://cui.acm.org/2025/).
 * May 2025, __VizTrust__ was featured on [__BingUNews__](https://www.binghamton.edu/news/story/5570/how-much-do-we-trust-chatbots-new-tool-from-binghamton-university-makes-it-easier-to-gauge), [__TechXplore__](https://techxplore.com/news/2025-05-chatbots-tool-easier-gauge.html), and [__The Science Archive__](https://thesciencearchive.org/2503-07279v1/)
