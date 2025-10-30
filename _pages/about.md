@@ -12,7 +12,7 @@ image_sliders:
 
 <style>
 /* Widen the main text column on this page.
-   Adjust max-width (e.g., 1100px, 1200px) as desired. */
+   Adjust max-width (e.g., 1200px, 1280px) as desired. */
 .article-content,
 .page-content,
 .content,
@@ -21,7 +21,7 @@ image_sliders:
 .container,
 .site-content,
 .main-content {
-  max-width: 1100px !important;
+  max-width: 1280px !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
