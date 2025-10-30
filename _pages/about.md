@@ -10,6 +10,47 @@ image_sliders:
   - slider1
 ---
 
+<style>
+/* Widen the main text column on this page.
+   Adjust max-width (e.g., 1100px, 1200px) as desired. */
+.article-content,
+.page-content,
+.content,
+.post,
+.post-content,
+.container,
+.site-content,
+.main-content {
+  max-width: 1100px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Improve readability: slightly larger font + more line height */
+.article-content p,
+.page-content p,
+.content p,
+.post p {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+/* Keep it responsive on small screens */
+@media (max-width: 800px) {
+  .article-content,
+  .page-content,
+  .content,
+  .post,
+  .container,
+  .site-content,
+  .main-content {
+    max-width: 100% !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+}
+</style>
+
 Welcome! I am a third-year Ph.D. in Binghamton University (BU). My research focuses on human-centered AI, representation learning, machine learning, computational social science, and conversational AI. I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/) at BU. 
 
 My PhD study is on __Trust Dynamics in Human-AI Communication__. My study goals are __(1) to capture, visualize and model trust dynamics__, and __(2) to improve trust-aware adaption in conversational AI__. Three mentors support my study from different displines: [Dr. Sadamori Kojaku](https://skojaku.github.io/) (machine learning and data visualization) at BU, [Dr. William Hayes](https://www.binghamton.edu/psychology/people/profile.html?id=whayes2) (computational cognitive modeling) at BU, and [Dr. Min Sun Kim](https://sci.manoa.hawaii.edu/min-sun-kim/) (communication and social influence) at University of Hawaii at Manoa. My study is funded by __Multidisciplinary Summer Research Grant__ from [the Center for Cognitive Applications, BU](https://www.binghamton.edu/psychology/graduate/cognitive-brain-sciences/caps.html) and __Professor Jim Geer Summer Scholarship__ launched by [Dr. Nana Banerjee](https://www.binghamton.edu/news/story/5008/weather-man-alumnus-leads-company-using-ai-for-better-forecasting-and-more). My study on trust has been featured on [Communications of the ACM](https://cacm.acm.org/news/ais-capture-trust-cues/), [The Science Archive](https://thesciencearchive.org/2503-07279v1/), [TechXplore](https://techxplore.com/news/2025-05-chatbots-tool-easier-gauge.html) and [BingUNews](https://www.binghamton.edu/news/story/5570/how-much-do-we-trust-chatbots-new-tool-from-binghamton-university-makes-it-easier-to-gauge).
