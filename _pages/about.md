@@ -10,7 +10,11 @@ image_sliders:
   - slider1
 ---
 
-Welcome! I am a third-year Ph.D. in Binghamton University (BU). My research focuses on human-centered AI, representation learning, machine learning, computational social science, and conversational AI. I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/) at BU. 
+Welcome! I am a third-year Ph.D. in Binghamton University (BU). My research focuses on human-centered AI, representation learning, machine learning, computational social science, and conversational AI. 
+
+<!---
+I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/) at BU. 
+-->
 
 I am interested in understanding psychological and cognitive states as reflected in human language interaction. Specially, my PhD study focuses on __Trust Dynamics in Human-AI Communication__. My study goals is to advance trustworthy, adaptive AI system by __(1) capturing, visualizing and modeling trust dynamics__, and __(2) developing real-time trust-adaptive conversational agents__. Three mentors support my study from different displines: [Dr. Sadamori Kojaku](https://skojaku.github.io/) (machine learning and data visualization) at BU, [Dr. William Hayes](https://www.binghamton.edu/psychology/people/profile.html?id=whayes2) (computational cognitive modeling) at BU, and [Dr. Min Sun Kim](https://sci.manoa.hawaii.edu/min-sun-kim/) (communication and social influence) at University of Hawaii at Manoa. My study is funded by __Multidisciplinary Summer Research Grant__ from [the Center for Cognitive Applications, BU](https://www.binghamton.edu/psychology/graduate/cognitive-brain-sciences/caps.html) and __Professor Jim Geer Summer Scholarship__ launched by [Dr. Nana Banerjee](https://www.binghamton.edu/news/story/5008/weather-man-alumnus-leads-company-using-ai-for-better-forecasting-and-more). My study on trust has been highlighted on [Communications of the ACM](https://cacm.acm.org/news/ais-capture-trust-cues/), [The Science Archive](https://thesciencearchive.org/2503-07279v1/), [TechXplore](https://techxplore.com/news/2025-05-chatbots-tool-easier-gauge.html) and [BingUNews](https://www.binghamton.edu/news/story/5570/how-much-do-we-trust-chatbots-new-tool-from-binghamton-university-makes-it-easier-to-gauge).
 
