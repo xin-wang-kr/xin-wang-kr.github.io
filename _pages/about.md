@@ -10,7 +10,7 @@ image_sliders:
   - slider1
 ---
 
-Welcome! I am a third-year Ph.D. in Systems Science at Binghamton University (BU). My research intereste focuses on human-centered AI, machine learning, natural language processing, computational social science, and conversational AI. 
+Welcome! I am a third-year Ph.D. in Systems Science at Binghamton University (BU). My research interest focuses on human-centered AI, machine learning, natural language processing, computational social science, and conversational AI. 
 
 <!---
 I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/) at BU. 
