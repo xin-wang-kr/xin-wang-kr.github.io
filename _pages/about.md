@@ -95,10 +95,6 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 * Jul 2014, awarded __Third Prize of 2014 Cross-Strait Contest of Outstanding Bachelor’s Degree Thesis (10/15, among China Mainland, Hong Kong, Macao, and Taiwan)__ by Chinese Institute of Industrial Engineering.
 -->
 
-</details>
-
-
-# Research showcase ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=HWiicI8AAAAJ))
 <div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
   <div class="project-image" style="flex:0 0 320px;max-width:320px;">
     <!-- Replace the src with your project image path, e.g., /assets/images/your-project.png -->
@@ -111,6 +107,11 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
     
   </div>
 </div>
+
+</details>
+
+
+# Research showcase ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=HWiicI8AAAAJ))
 
 <div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
   <div class="project-image" style="flex:0 0 320px;max-width:320px;">
