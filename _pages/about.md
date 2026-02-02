@@ -43,7 +43,6 @@ AI music generation, image diagnosis on skin cancer, region-based bird call reco
 
 I have [taught](teaching) courses in Mobile App Development and Python Programming in AI at BIG DATA & AI Lab at IntelligentRabbit LLC.
 As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Academic Writing course for [AI HUB](https://www.gecacademy.com/ai-hub) and Intro to Java course for general class in undergraduate and graduate levels. 
-* Jan 2026, served as __Associate Chaire__ for __CHI'26 Poster track__.
 -->
 
 # News
