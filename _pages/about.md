@@ -95,19 +95,6 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 * Jul 2014, awarded __Third Prize of 2014 Cross-Strait Contest of Outstanding Bachelor’s Degree Thesis (10/15, among China Mainland, Hong Kong, Macao, and Taiwan)__ by Chinese Institute of Industrial Engineering.
 -->
 
-<div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
-  <div class="project-image" style="flex:0 0 320px;max-width:320px;">
-    <!-- Replace the src with your project image path, e.g., /assets/images/your-project.png -->
-    <img src="/images/project_showcase/BI-framework.png" alt="Tracing Trust" style="width:auto;height:auto;border-radius:6px;border:1px solid #eee;">
-  </div>
-  <div class="project-info" style="flex:1;min-width:220px;">
-    <h3>Tracing Trust: A Context-Engineered Bayesian Inference Framework for Simulating Trust Dynamics in Human–AI Conversations</h3>
-    <p><strong>Authors:</strong> <b>Xin Wang</b>, Sadamori Kojaku, Shuai Ma</p>
-    <p><strong>Venue:</strong> In progress.</p>
-    
-  </div>
-</div>
-
 </details>
 
 
