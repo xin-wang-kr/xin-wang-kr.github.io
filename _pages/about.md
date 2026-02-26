@@ -27,9 +27,9 @@ In Summer 2023, I was summer research intern at [the Research Foundation at SUNY
 <!---
 Before that, I was a COVID-19 research team leader in the [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Besides, I was a machine learning engineer at Tianjin Value Fair Technology Inc in China for NLP-based financial application development for public company annual reports in 2017. I have earned my master's degree in Data Science in 2018 and a bachelor's degree in Industrial Engineering at Aeronautical Engineering direction in 2014. I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), having served [Goolge AI Impact Challenge](https://impactchallenge.withgoogle.com/techforsocialgood) in 2019 and [data.org Growth and Recovery Challenge for COVID-19](https://data.org/initiatives/challenge/) in 2020.
 In 2016, I achieved a certification from Google Developer StudyJams on Android mobile app in Java.
--->
 
 <span style="color:blue">Now I am actively seeking Research Internship. Please feel free to contact me if you think I match with any position that you provide or want to recommend to me. Email: xinwang35314@gmail.com</span>
+-->
 
 <!---
 My research works have been [published](publications) in
