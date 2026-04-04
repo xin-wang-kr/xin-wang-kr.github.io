@@ -10,7 +10,7 @@ image_sliders:
   - slider1
 ---
 
-Welcome! I am a third-year Ph.D. in Systems Science at Binghamton University (BU). My research interest focuses on Human-AI Interaction, Computational Interaction, Conversational AI, Cognitive Modeling, Natural Language Processing, Information Visualization, Computational Social Science. I also serve as a student representative in steering committee for __ACM Conference on Conversational User Interfaces__ (2025-2030). 
+Welcome! I am doing Ph.D. in Systems Science at Binghamton University (BU). My research interest focuses on Human-AI Interaction, Computational Interaction, Conversational AI, Cognitive Modeling, Natural Language Processing, Information Visualization, Computational Social Science. I also serve as a student representative in steering committee for __ACM Conference on Conversational User Interfaces__ (2025-2030). 
 
 
 <!---
