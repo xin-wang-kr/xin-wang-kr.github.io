@@ -46,6 +46,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 -->
 
 # News
+* Aug 2026, won __Third Place__ with team in __Code Quality Jam 2026 at Adobe Research__ (Working Project: Self-improving Agent).
 * Jun 2026, joining __Adobe Research__ as __Research Scientist Intern__. 
 * Jan 2026, served as __Associate Chair__ for __CHI'26 Poster Track__.
 * Oct 2025, __VizTrust__ was highlighted on [__Communications of the ACM__](https://cacm.acm.org/news/ais-capture-trust-cues/). It's truly an honor. 🎉
