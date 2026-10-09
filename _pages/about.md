@@ -10,7 +10,7 @@ image_sliders:
   - slider1
 ---
 
-Welcome! I am doing Ph.D. in Systems Science at Binghamton University (BU). My research involves LLM-based Multi-Agent Systems, Multimodal Human-AI Interaction, Conversational AI, Trust Alignment, Natural Language Processing, Information Visualization, Cognitive Modeling. My original background is from complex systems and artificial life. I currently serve as a steering committee member for [__ACM Conference on Conversational User Interfaces (CUI)__](https://cui.acm.org/community/) (2025-2030). 
+Welcome! I am doing Ph.D. in Systems Science at Binghamton University (BU). My research interest focuses on LLM-based Multi-Agent Systems, Multimodal Human-AI Interaction, Conversational AI, Trust Alignment, Natural Language Processing, Information Visualization, Cognitive Modeling. My original background is from complex systems and artificial life. I currently serve as a steering committee member for [__ACM Conference on Conversational User Interfaces (CUI)__](https://cui.acm.org/community/) (2025-2030). 
 
 <!---
 I am a member of the [Complex Adaptive Systems & Computational Intelligence Lab](https://casci.binghamton.edu/casci.php) held by [Dr. Luis M. Rocha](https://casci.binghamton.edu/) at BU. 
