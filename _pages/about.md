@@ -23,7 +23,7 @@ Three mentors support my study from different displines: [Dr. Sadamori Kojaku](h
 
 I am interested in understanding psychological and cognitive states as reflected in human language interaction. Specially, my research focuses on __Trust Dynamics in Human-AI Communication__. My study goals is to advance trustworthy, adaptive AI system by __(1) capturing, visualizing and modeling trust dynamics__, and __(2) informing real-time trust-adaptive conversational agent design__. My study is funded by __Multidisciplinary Summer Research Grant__ from [the Center for Cognitive Applications, BU](https://www.binghamton.edu/psychology/graduate/cognitive-brain-sciences/caps.html) and __Professor Jim Geer Summer Scholarship__ launched by [Dr. Nana Banerjee](https://www.binghamton.edu/news/story/5008/weather-man-alumnus-leads-company-using-ai-for-better-forecasting-and-more). My study on trust has been highlighted on [Communications of the ACM](https://cacm.acm.org/news/ais-capture-trust-cues/), [The Science Archive](https://thesciencearchive.org/2503-07279v1/), [TechXplore](https://techxplore.com/news/2025-05-chatbots-tool-easier-gauge.html) and [BingUNews](https://www.binghamton.edu/news/story/5570/how-much-do-we-trust-chatbots-new-tool-from-binghamton-university-makes-it-easier-to-gauge).
 
-In Summer 2023, I was summer research intern at [the Research Foundation at SUNY](https://www.rfsuny.org/) and contributed to [__Community Energy Compass - Data-driven Visualization Toolkit Development__](https://communityenergycompass.org/) (Under the supervision with [Dr. Neha Patankar](https://patankarneha.wixsite.com/home) and collaborating with [Zero Lab](https://zero.lab.princeton.edu/) held by [Dr. Jesse Jenkins](https://environmenthalfcentury.princeton.edu/experts/jesse-jenkins) at Princeton University). 
+In Summer 2023, I was summer research intern at [the Research Foundation at SUNY](https://www.rfsuny.org/) and contributed to [__Community Energy Compass - Data-driven Visualization Toolkit__](https://communityenergycompass.org/) (Under the supervision with [Dr. Neha Patankar](https://patankarneha.wixsite.com/home) and collaborating with [Zero Lab](https://zero.lab.princeton.edu/) held by [Dr. Jesse Jenkins](https://environmenthalfcentury.princeton.edu/experts/jesse-jenkins) at Princeton University). 
 
 <!---
 Before that, I was a COVID-19 research team leader in the [BIG DATA & AI Lab](https://intelrabbit.com/research-projects/) at [IntelligentRabbit LLC](https://intelrabbit.com/services/). Besides, I was a machine learning engineer at Tianjin Value Fair Technology Inc in China for NLP-based financial application development for public company annual reports in 2017. I have earned my master's degree in Data Science in 2018 and a bachelor's degree in Industrial Engineering at Aeronautical Engineering direction in 2014. I am also a Data Science volunteer at [DataKind Global](https://www.datakind.org/), having served [Goolge AI Impact Challenge](https://impactchallenge.withgoogle.com/techforsocialgood) in 2019 and [data.org Growth and Recovery Challenge for COVID-19](https://data.org/initiatives/challenge/) in 2020.
@@ -102,6 +102,18 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
 
 
 # Research showcase ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=HWiicI8AAAAJ))
+
+<div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
+  <div class="project-image" style="flex:0 0 320px;max-width:320px;">
+    <!-- Replace the src with your project image path, e.g., /assets/images/your-project.png -->
+    <img src="/images/project_showcase/CEC_v1.png" alt="CEC screenshot" style="width:auto;height:auto;border-radius:6px;border:1px solid #eee;">
+  </div>
+  <div class="project-info" style="flex:1;min-width:220px;">
+    <h3><a href="https://communityenergycompass.org/">Community Energy Compass - Data-driven Visualization Toolkit</a></h3>
+    <p><strong>Internship project at Research Foundation for SUNY. Coming soon!</strong> </p>
+    <p><strong>Short description:</strong> An interactive tool for exploring different ways to meet energy goals. It brings together power system planning results and information about local impacts so communities can compare options across cost, land use, jobs, emissions, and other priorities. Rather than presenting one preferred plan, CEC helps users see the choices and trade-offs available to them.</p>
+  </div>
+</div>
 
 <div class="project-showcase" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin-top:1rem;">
   <div class="project-image" style="flex:0 0 320px;max-width:320px;">
