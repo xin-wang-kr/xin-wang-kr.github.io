@@ -111,7 +111,7 @@ Cognitive Applications, BU. This is my first time to submit research grant appli
   </div>
   <div class="project-info" style="flex:1;min-width:220px;">
     <h3><a href="https://communityenergycompass.org/">Community Energy Compass - Data-driven Visualization Toolkit</a></h3>
-    <p><strong>Internship project at Research Foundation for SUNY. Coming soon!</strong> </p>
+    <p><strong>Coming soon! Internship project at Research Foundation for SUNY.</strong> </p>
     <p><strong>Short description:</strong> An interactive tool for exploring different ways to meet energy goals. It brings together power system planning results and information about local impacts so communities can compare options across cost, land use, jobs, emissions, and other priorities. Rather than presenting one preferred plan, CEC helps users see the choices and trade-offs available to them.</p>
   </div>
 </div>
