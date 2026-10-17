@@ -2,7 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-author_profile: false
+author_profile: true
 classes: wide
 redirect_from: 
   - /about/
