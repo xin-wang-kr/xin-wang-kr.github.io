@@ -50,7 +50,7 @@ As an Instructor at [GEC academy](https://www.gecacademy.com/), I have taught Ac
 -->
 
 # News
-* Nov 2026, served as reviewer for __International Journal of Human-Computer Interaction__. 
+* Nov 2026, served as reviewer for __International Journal of Human-Computer Interaction__. Glad to be invited to contribute to this journal!
 * Aug 2026, won __Third Place__ with team in __Code Quality Jam 2026 at Adobe Research__ (Working Project: Self-improving Agent). 🎉 Surprising!
 * Jun 2026, joining __Adobe Research__ as __Research Scientist Intern__. 
 * Jan 2026, served as __Associate Chair__ for __CHI'26 Poster Track__.
